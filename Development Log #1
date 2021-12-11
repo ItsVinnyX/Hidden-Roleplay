@@ -1,0 +1,146 @@
+Pre-release Development Log #1 | 12/1/2021
+This will be extremely long and not all features will be listed. Part 2 will follow.
+
+Server:
+• Server has been updated to version 4978 the latest FiveM artifact.
+• Server load reduction. Smoothing optimization & overall increased network stability.
+• Absolutely insane database optimizations & stability. Faster character loading and saving all around.
+• Hidden Defense has been introduced along with another anti-cheat.
+• Anti-AFK has been introduced. Prevent individuals from farming money.
+• Completely new framework.
+• All new inventory system with new items.
+• All new responsive UI & Design.
+• All new responsive sleek HUD.
+• Realistic handling for all vehicles.
+
+City & Civilian:
+• Location Teleporting
+   - Teleport to a pre-defined location or your previous location upon login.
+• Phone & Radio Overhaul
+   - Call anonymously 
+   - New applications
+   - New phone framework
+   - Phones are now more useful than ever
+   - New Radio UI
+   - Radio Voice Optimization
+• Jobs/Activities Overhaul
+   - Hunting
+   - Fishing
+   - Vineyard
+   - Scuba Diving
+   - Taxi Service
+   - Garbage
+   - News Reporter
+   - Truck Driver
+   - Bus Driver
+   - Tow Truck Driver
+• Whitelisted Jobs Overhaul
+   - Law Enforcement
+   - Emergency Medical Services
+      - Firefighters
+   - Department of Justice
+      - Lawyers
+      - Judges
+• Housing Overhaul
+   - Houses have became useful.
+      - Obtain one free apartment, which can be used for storage and swapping between characters.
+• Weapon Usage Overhaul
+    - Weapon Licenses must be obtained at the City Hall and granted by a Sergeant and above within Law Enforcement.
+    - Weapon Licenses can be revoked permanently.
+• Jailing Overhaul
+  - Criminals that have a lengthy jail sentence can now reduce that sentence by doing tasks/jobs within the Prison.
+  - The whole jailing mechanic has been redone.
+  - New Prison Interiors.
+• Impound Overhaul
+   - There are multiple depots. If your vehicle gets impounded by the police you must pay the price of impound at the police depot.
+   - Same goes with the city tow truck drivers. You must pay the price at the impound.
+• Car Dealerships Overhaul
+  - Finance or Purchase vehicles.
+  - Preview and Test Drive before financing or purchasing.
+  - Incremented payments when financing.
+• Crafting of weapons, attachments, and so on has been introduced.
+• Minigames such as rock/paper/scissors, dice rolling, and coin flipping has been introduced.
+• Banking
+   - Each player has a unique account identification number.
+   - Credit & Debit Cards have been introduced.
+   - Open Multiple Saving Accounts.
+• Gang System - Whitelisted
+   - Have funds that all gang members can access and use.
+   - Recruit individuals to be apart of your gang.
+   - Check your storage.
+   - Maintain your outfits.
+• Robberies & Drugs
+   - A variety of new robberies.
+   - NPC House Robberies.
+   - Multi-step heists.
+   - Lot's of new drugs.
+• Casino System
+   - Spin the wheel for one of one vehicles and other rewards.
+   - Play Blackjack.
+   - Play Slot Machines.
+
+Law Enforcement:
+• Classical requirements like on duty/off duty, clothing, vehicle, stash etc.
+• Citizen ID based armory (Whitelisted)
+• Live Camera System (Real-time CCTV Footage inside businesses.)
+• Fingerprint testing
+• Evidence locker (stash)
+• Whitelisted vehicles
+• Speed radars across the map
+• Stormram
+• Impounding player vehicle (permanent / for an amount of money)
+• Integrated jail system
+• Bullet casings
+• GSR
+• Blood drop
+• Evidence bag & Money bag
+• Police radar
+• Handcuff items
+• Soft Cuffing
+• Hard Cuffing (Used via command. Check Commands section.)
+• Emergency services can see each other on map
+
+Pre-release Development Log #1 | 12/1/2021 - Continued
+Part 2/2. More is still to be listed, however find out in RP.
+
+City & Civilian:
+• Crypto Currency (Obtainable and Secretive)
+• Drug Laboratories
+• Vehicle Key System
+   - Rob NPCs for Vehicle Keys
+• Peer-to-Peer Vehicle Sales
+• Safe Cracking
+• Hacking Minigames
+• In-depth Vehicle Tuning
+• HAWT DOG SELLING
+• Street Racing
+• Grape Juice & Wine Processing
+• Bike Rentals
+• Business Owning
+   - Business Licenses
+   - Court Documentation
+
+Law Enforcement:
+• Rifle Back (Rifle Stash in Squad Car)
+• Preset vehicle mods w/ extras.
+• Gear automatically in trunk upon Squad Car spawn.
+• Shift Logs
+Shoutout to @Kihnix for long hours below.
+• New EUP Clothing
+• New SAHP Vehicle Pack
+• New Vehicle Pack for Sheriff
+• Optimized Liveries for performance.
+
+EMS & Fire:
+• Hospital System
+   - New Injuries
+   - Doctor Job
+   - Death has its consequences
+• Emergency Blips seen by Law Enforcement and vice versa.
+• More in-depth Status
+   - Check injury state
+   - Invoice Patients
+• Shift Logs
+Shoutout to @Kihnix for long hours below
+• New EUP Clothing
+• New Vehicles / Liveries
