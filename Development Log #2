@@ -1,0 +1,32 @@
+Pre-release Development Log #13 | 2/14/2021
+
+Server
+• Improvements on city stutters, especially when coming from Blaine County to the City of Los Santos.
+• Removed the Casino interior and surrounding streaming files to compensate client load times.
+• 95% sure that the texture loss on the bridge and the surrounding area where Bolingbroke Penitentiary is, has been fixed.
+• ALT (3rd-Ey)e Testing is in progress. This will work for newer features which have been introduced via this development log.
+ 
+City
+• Furthermore economy tweaks.
+• Furthermore civilian job tweaks and improvements.
+• The time to process wine for the Vineyard job has been significantly reduced.
+• Fishing has been introduced.
+• Vehicle Key system overhaul. 
+  - You may now use /givekeys <id> or ***not prompt an id at all*** to give all passengers the keys to your vehicle.
+  - More fluent vehicle locking. No more client side running, easy on server load performance.
+• Meth Labs introduced. ***(Create your own Breaking Bad)***
+• Document heist introduced.***Obtain Government documents*** while up against a rough threat.
+• Vehicle Rentals introduced. Obtain a vehicle rental with proper documentation stating that you are in fact renting the vehicle.
+• Burgershot job introduced. **Player Owned Businesses are almost ready!**
+• The required quantity of materials to craft items has been lowered.
+ 
+ Police
+• /911r <id> - Replies to the call attached to an identifier via the MDT.
+
+EMS
+• /911r <id> - Replies to the call attached to an identifier given within the call log.
+
+IMPORTANT NOTES
+• Development is active and we are checking out suggestions as well as bug reports on the daily.
+• We are aware the city is slow currently. We are working hard on getting it popping again.
+• Keep in mind that we are a fairly small community. During these slow times, we need to come together and plan times to populate the city.
