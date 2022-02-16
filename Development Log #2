@@ -12,12 +12,12 @@ City
 • The time to process wine for the Vineyard job has been significantly reduced.
 • Fishing has been introduced.
 • Vehicle Key system overhaul. 
-  - You may now use /givekeys <id> or ***not prompt an id at all*** to give all passengers the keys to your vehicle.
+  - You may now use /givekeys <id> or not prompt an id at all to give all passengers the keys to your vehicle.
   - More fluent vehicle locking. No more client side running, easy on server load performance.
-• Meth Labs introduced. ***(Create your own Breaking Bad)***
-• Document heist introduced.***Obtain Government documents*** while up against a rough threat.
+• Meth Labs introduced. (Create your own Breaking Bad)
+• Document heist introduced. Obtain Government documents while up against a rough threat.
 • Vehicle Rentals introduced. Obtain a vehicle rental with proper documentation stating that you are in fact renting the vehicle.
-• Burgershot job introduced. **Player Owned Businesses are almost ready!**
+• Burgershot job introduced. Player Owned Businesses are almost ready!
 • The required quantity of materials to craft items has been lowered.
  
  Police
