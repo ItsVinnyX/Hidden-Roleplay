@@ -1,0 +1,70 @@
+Development Log #23
+A content update has been introduced. The server is now up with the update, enjoy.
+
+Server
+• Unfortunately, removed trees and extra unneeded props until we can figure out pooling issues.
+• Removed additional unneeded interiors to provide you guys with the best performance possible.
+• Updated the server to the latest FiveM artifacts.
+• Optimized backend with updates and further security.
+
+City
+• Job Bazaar added via Discordia - #🏢┃job-bazaar.
+• Businesses introduced and will be sold hopefully soon!
+   - Vanilla Unicorn
+   - Bean Machine
+   - Camel Towing 
+   - Cat Café
+• Real Estate job functional.
+   - The first Real-Estate business has been added "Golden Key Properties".
+   - Golden Key Properties is located at postal 389.
+• Housing has been implemented.
+   - The ability to have a personal garage.
+   -  Furniture capabilities. You may decorate your house with whatever design you desire.
+• Secretive dealers added through the city! Get out there and explore.
+   - These dealers can provide you with pretty juicy drug-related missions.
+• Thermite Heist... hmm Paige what a lovely lady.
+   - Obtain a large quantity of thermite through an interactive firefight mission.
+• Racing harnesses.
+   - While worn, harnesses will not produce stress when driving like a maniac.
+• MINING! Has arrived in our lovely city.
+   - Interactive mining job has been introduced with pickaxes, smelting, and more.
+• ATM Robberies have been added.
+• Garbage item drop's rarity has been changed slightly.
+• Better Weapon Holstering / Drawing
+   - Weapons that are not hosterable will draw from your back.
+   - Weapon holstering for civilians has been incorporated.
+   - Smoother process and easier on the client.
+• Weapon Breaking Bug
+   - Any projectile item such as Gasoline / Fire Extinguishers will no longer break weapons.
+• The ability to take NPC a hostage and shoot them for immersive RP interactions. Usable via /takehostage.
+• Outfit bags fixed and are functional again.
+• Government document heist has been buffed again as well as with an increase in payout.
+• Convoy heist with vehicles alerting authority bug has been fixed.
+• Fixed corner selling drugs to static peds as well as animals. 
+
+DOJ
+• The courts have opened and DOJ is now in full force.
+• Bench trials may be requested if a Judge is available.
+• Door locks have been introduced to the courthouse.
+• Judges can now be called and seen via the services tab on the phone.
+
+Emergency Services
+• LSPD has a whole new vehicle fleet.
+   - 2021 Dodge Durango
+   - 2018 Dodge Charger
+   - 2020 BMW R1250RT (Exclusive Moto Unit.)
+• SAHP Handling line for the Crown Victoria has been modified. It should be slightly faster.
+
+Fire/EMS
+• The fire script has been adjusted furthermore for optimizations.
+• A few fire vehicles have been removed for the time being just for optimizations.
+• Fire & EMS vehicles have been compressed even further to provide more optimizations.
+• Fires should sync better with the newest FiveM artifacts. There will still be syncing issues here and there.
+• The ability to administer boosters to individuals that have bled out. 
+
+Additional Notes
+➤ Following additional updates will be pushed. Keep suggesting!
+➤ There are a lot of new faces around the city. Please be welcoming and help those in need! It is okay to help others get started on the right path!
+➤ The fastest method in growing this community is simply Word of Mouth. Tell your friends, family, etc. Word of Mouth has been seriously helping Hidden!
+
+Keep up the good work everyone!
