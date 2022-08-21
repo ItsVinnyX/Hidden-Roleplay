@@ -1,0 +1,77 @@
+ Server
+ • Resource optimizations to increase performance.
+ • Optimized vehicle assets to further increase performance.
+ • Lowered client-side ms to improve FPS.
+ • Updated to the latest FiveM artifacts.
+ 
+ City
+ • All new economic structure.
+ • DMV has been introduced.
+    - Permit & Driver's Licenses.
+ • Ragdoll tackling has been implemented and has replaced the old tackling system.
+ • Implemented a carrying system usable by /carry.
+ • A new skill check has been introduced.
+ • The hotwiring exploit has been patched.
+ • Hotwiring now uses the new skill check mechanic.
+ • Phone services have been overhauled.
+ • Mosley's Auto has been introduced.
+ • Portable Yoga Mats have been introduced.
+ • A DSLR Camera has been introduced.
+ • Working notepads have been introduced.
+ • Max ammo for weaponry has been adjusted.
+ • Ammo reloading time has been adjusted.
+ • Bolt Cutters now have a distance check as well as a 50% chance of removal upon fail.
+ • Vehicle Theft has been adjusted to use the new skill check system.
+ • Added Vehicle Theft alerts for emergency services.
+ • Added warehouses with upgradeable storage as well as shareable keys, these can be raided by Police.
+ • Group storage has been removed from the group management menu.
+ • Group money has been removed from the group management menu.
+ • Crafting has been revamped.
+ • Drug locations have been changed.
+ • Some heist start locations have been changed.
+ • All passive jobs have updated loot tables.
+ • The fishing mechanic has been overhauled.
+ • Scuba Diving has been overhauled and deemed useful now.
+ • Tow job has been updated and fixed.
+ • All new Trash Collector job has been introduced.
+ • The Garbage HQ location has been changed.
+ • A new job Mail Carrier which has a progression system.
+    - The more mail you deliver you earn an increased pay rate per milestone.
+ • The casino has been adjusted.
+    - Payouts have been adjusted.
+    - Max bets have been decreased.
+    - Casino is only open at night now.
+ • Backpacks have been introduced.
+    - Working backpacks w/ storage can now be obtained via the Backpack store.
+ 
+ Emergency Services
+ • All frequencies have been adjusted. Radio channels 1 - 5 are now whitelisted for emergency units only.
+ • Phone Services have been overhauled for Emergency Units.
+    - Callsigns have been added to the phone.
+    - Abbreviated the first name on the services tab.
+ • All agencies have received handling line updates.
+ 
+ Dispatch
+ • Dispatchers now have access to BOLOs and DMV records.
+ • You can now attach units to calls. Dragging a unit to a call will assign them to the coordinated call and automatically remove the unit from their previous call if they had one.
+ • When attaching a unit to a call they will be notified and a waypoint will be set on their GPS to the call location.
+ • As dispatchers, you can now set radio frequencies of units via the MDT.
+ • Dispatchers now have access to MRPD.
+ 
+ Police
+ • All new cuffing system.
+    - Units will now have to be behind the suspect to cuff the individual.
+    - Units can also apprehend a suspect while they are incapacitated via the taser or by being tackled.
+ • LSPD has received new vehicle skins as well as a whole fleet.
+ • LSPD now has a pursuit unit.
+ 
+ Fire & EMS
+ • Fire & EMS personnel now have access to MRPD.
+ • A new elevator system has been introduced to Pillbox Medical.
+    - Roof access is restricted to Fire/EMS, Police, and Dispatch members only.
+ • Paramedic jump bags have been introduced.
+ • Wheelchairs have been introduced.
+    - Should only be sold by EMS if a person is deemed medically to need assistance.
+ 
+ Thank you for supporting us for a whole year.
+ We hope this wipe as well as the update will further improve everyone's experience within our community.
