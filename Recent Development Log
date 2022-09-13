@@ -1,77 +1,65 @@
- Server
- • Resource optimizations to increase performance.
- • Optimized vehicle assets to further increase performance.
- • Lowered client-side ms to improve FPS.
- • Updated to the latest FiveM artifacts.
- 
- City
- • All new economic structure.
- • DMV has been introduced.
-    - Permit & Driver's Licenses.
- • Ragdoll tackling has been implemented and has replaced the old tackling system.
- • Implemented a carrying system usable by /carry.
- • A new skill check has been introduced.
- • The hotwiring exploit has been patched.
- • Hotwiring now uses the new skill check mechanic.
- • Phone services have been overhauled.
- • Mosley's Auto has been introduced.
- • Portable Yoga Mats have been introduced.
- • A DSLR Camera has been introduced.
- • Working notepads have been introduced.
- • Max ammo for weaponry has been adjusted.
- • Ammo reloading time has been adjusted.
- • Bolt Cutters now have a distance check as well as a 50% chance of removal upon fail.
- • Vehicle Theft has been adjusted to use the new skill check system.
- • Added Vehicle Theft alerts for emergency services.
- • Added warehouses with upgradeable storage as well as shareable keys, these can be raided by Police.
- • Group storage has been removed from the group management menu.
- • Group money has been removed from the group management menu.
- • Crafting has been revamped.
- • Drug locations have been changed.
- • Some heist start locations have been changed.
- • All passive jobs have updated loot tables.
- • The fishing mechanic has been overhauled.
- • Scuba Diving has been overhauled and deemed useful now.
- • Tow job has been updated and fixed.
- • All new Trash Collector job has been introduced.
- • The Garbage HQ location has been changed.
- • A new job Mail Carrier which has a progression system.
-    - The more mail you deliver you earn an increased pay rate per milestone.
- • The casino has been adjusted.
-    - Payouts have been adjusted.
-    - Max bets have been decreased.
-    - Casino is only open at night now.
- • Backpacks have been introduced.
-    - Working backpacks w/ storage can now be obtained via the Backpack store.
- 
- Emergency Services
- • All frequencies have been adjusted. Radio channels 1 - 5 are now whitelisted for emergency units only.
- • Phone Services have been overhauled for Emergency Units.
-    - Callsigns have been added to the phone.
-    - Abbreviated the first name on the services tab.
- • All agencies have received handling line updates.
- 
- Dispatch
- • Dispatchers now have access to BOLOs and DMV records.
- • You can now attach units to calls. Dragging a unit to a call will assign them to the coordinated call and automatically remove the unit from their previous call if they had one.
- • When attaching a unit to a call they will be notified and a waypoint will be set on their GPS to the call location.
- • As dispatchers, you can now set radio frequencies of units via the MDT.
- • Dispatchers now have access to MRPD.
- 
- Police
- • All new cuffing system.
-    - Units will now have to be behind the suspect to cuff the individual.
-    - Units can also apprehend a suspect while they are incapacitated via the taser or by being tackled.
- • LSPD has received new vehicle skins as well as a whole fleet.
- • LSPD now has a pursuit unit.
- 
- Fire & EMS
- • Fire & EMS personnel now have access to MRPD.
- • A new elevator system has been introduced to Pillbox Medical.
-    - Roof access is restricted to Fire/EMS, Police, and Dispatch members only.
- • Paramedic jump bags have been introduced.
- • Wheelchairs have been introduced.
-    - Should only be sold by EMS if a person is deemed medically to need assistance.
- 
- Thank you for supporting us for a whole year.
- We hope this wipe as well as the update will further improve everyone's experience within our community.
+[@everyone]
+September 10th, 2022 | Development Update
+
+Rule Changes/Updates
+• New Rule: Businesses are now considered neutral zones. You can find more on neutral zones via #┃rules.
+• New Rule: You should wait at least 3 minutes for EMS to respond to your call before transporting anyone to the hospital.
+• PD Rule: You must wait 3 minutes for a tow unit to respond to your call before impounding/depot vehicles.
+• Rule Reiteration: NVL applies to civilians being held by police at gunpoint. Acting in ways that would get you shot by the police while held at gunpoint in a position of power is considered NVL.
+• New Rule: Interfering in scenes in which you have no involvement is not acceptable.
+If you are on a scene and have a friend you're running with, split, and call them back, then later they come to get you then that's not allowed. 
+
+Server
+• Powerful anti-cheat added.
+• Optimizations w/ scripts.
+• Optimizations w/ vehicle assets.
+• Platinum Tier added. Visit the #┃contribute channel for more information.
+
+City
+• Government tax added.
+- Each player has a tax bracket. (Poor, Medium-class, Upper-class, Wealthy)
+- Taxes will help fund government jobs due to them now being paid by their government bank account.
+• Vehicle prices reduced.
+• Bobcat heist revamped, increase payouts, as well as weaponry obtained.
+- Bobcat safe should sync to everyone now, this needs further testing.
+• Vangelico Jewelry Store robbery payouts have increased.
+• All Bank Robbery payouts have been increased.
+• Armed Bank Truck Robbery has been buffed and is worth doing now.
+• Exclusive Deluxe Dealership has a whole new shipment of vehicles.
+• Vehicle Damages have been tweaked, all vehicles should get less damaged now.
+• Lowered weapon durability, this should make weapon breaking less frequent than it was.
+• First Aid Kits have been added to grocery stores.
+• Vespucci Beach strip mall added.
+• Double paychecks have been fixed.
+• Infinite taser ammo has been fixed.
+• LostMC interior added.
+• BurgerShot introduced.
+• Paintball fixed.
+• Revolter has been added to PDM.
+• Unemployed has been added to the F4 job menu.
+• New weaponry added.
+- HK416 A5 (S.W.A.T Rifle)
+- Mini Uzi
+- AK-74
+
+Emergency Services
+• TESTING Paychecks will come out of the government bank account.
+- This means that to get paid the government bank account must be filled with funds.
+• All police handling lines were updated. Tweaks will be made over the weekend. They should be decent.
+• Updated LSPD and LSCSO sirens.
+
+Police
+• All new Los Santos Police Department vehicle fleet.
+• All new Los Santos Sheriff's Office vehicle fleet.
+- 2018 Chevrolet Tahoe added. 
+• Cuffing system revamp.
+- Suspects can no longer resist cuffs when dead or in the final stand phase.
+- Suspects can only resist cuffs twice now.
+
+EMS/Fire
+• OC Spray added to the armory.
+• TQs & Medical Kits tweaked.
+• Payment per revive fixed.
+
+EDM
+• The new rotation has hit the city. This by far is the best rotation yet, it's looking HAWT!
