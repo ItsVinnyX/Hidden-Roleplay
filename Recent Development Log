@@ -1,64 +1,35 @@
-Development Update
+Development Log | September 14th, 2022
+Additions, bug fixes, and balances.
 
-Rule Changes/Updates
-• New Rule: Businesses are now considered neutral zones. You can find more on neutral zones via #┃rules.
-• New Rule: You should wait at least 3 minutes for EMS to respond to your call before transporting anyone to the hospital.
-• PD Rule: You must wait 3 minutes for a tow unit to respond to your call before impounding/depot vehicles.
-• Rule Reiteration: NVL applies to civilians being held by police at gunpoint. Acting in ways that would get you shot by the police while held at gunpoint in a position of power is considered NVL.
-• New Rule: Interfering in scenes in which you have no involvement is not acceptable.
-If you are on a scene and have a friend you're running with, split, and call them back, then later they come to get you then that's not allowed. 
-
-Server
-• Powerful anti-cheat added.
-• Optimizations w/ scripts.
-• Optimizations w/ vehicle assets.
-• Platinum Tier added. Visit the #┃contribute channel for more information.
+Sever
+• Updated to the latest FiveM artifacts.
 
 City
-• Government tax added.
-- Each player has a tax bracket. (Poor, Medium-class, Upper-class, Wealthy)
-- Taxes will help fund government jobs due to them now being paid by their government bank account.
-• Vehicle prices reduced.
-• Bobcat heist revamped, increase payouts, as well as weaponry obtained.
-- Bobcat safe should sync to everyone now, this needs further testing.
-• Vangelico Jewelry Store robbery payouts have increased.
-• All Bank Robbery payouts have been increased.
-• Armed Bank Truck Robbery has been buffed and is worth doing now.
-• Exclusive Deluxe Dealership has a whole new shipment of vehicles.
-• Vehicle Damages have been tweaked, all vehicles should get less damaged now.
-• Lowered weapon durability, this should make weapon breaking less frequent than it was.
-• First Aid Kits have been added to grocery stores.
-• Vespucci Beach strip mall added.
-• Double paychecks have been fixed.
-• Infinite taser ammo has been fixed.
-• LostMC interior added.
-• BurgerShot introduced.
-• Paintball fixed.
-• Revolter has been added to PDM.
-• Unemployed has been added to the F4 job menu.
-• New weaponry added.
-- HK416 A5 (S.W.A.T Rifle)
-- Mini Uzi
-- AK-74
+• The number of required police to do robberies/missions have been reduced.
+• Added /rag which will ragdoll your ped until the command is run again.
+• A ton of new female and male clothing additions have been added.
+• Bike Rentals have been added.
+• Mining has been significantly buffed.
+  - Mining is also now fixed.
+• Unemployment checks have been increased.
+• Government taxes have been reduced.
+• Tax amount has been formatted and rounded. 
+• Garbage materials have been increased.
+• Recycling center materials have been increased.
+• Scrapping vehicle materials have been tweaked and increased.
+• Filing kits may now be obtained and crafted.
+• Crack cocaine has been added.
+• Drugs can now be robbed from you by the NPCs you sell to via corner selling.
+• New business added.
+  - Hayes Auto South (Mechanic Shop)
+• Gang Turfs have been added.
+  - A all-new system for whitelisted gangs within the city to claim their turf by spray painting their custom graffiti throughout areas.
+  - Gang NPC-s spawn inside the turf which allows gang members to stock them w/ items to distribute/sell.
+  - Gangs can "scratch" graffiti made by other gangs.
+  - You can discover rival gang sprays to show them on your map.
 
 Emergency Services
-• TESTING Paychecks will come out of the government bank account.
-- This means that to get paid the government bank account must be filled with funds.
-• All police handling lines were updated. Tweaks will be made over the weekend. They should be decent.
-• Updated LSPD and LSCSO sirens.
-
-Police
-• All new Los Santos Police Department vehicle fleet.
-• All new Los Santos Sheriff's Office vehicle fleet.
-- 2018 Chevrolet Tahoe added. 
-• Cuffing system revamp.
-- Suspects can no longer resist cuffs when dead or in the final stand phase.
-- Suspects can only resist cuffs twice now.
-
-EMS/Fire
-• OC Spray added to the armory.
-• TQs & Medical Kits tweaked.
-• Payment per revive fixed.
-
-EDM
-• The new rotation has hit the city. This by far is the best rotation yet, it's looking HAWT!
+• ALL HANDLING LINES HAVE BEEN UPDATED.
+  - BOTH DEPARTMENTS HAVE THE SAME HANDLING LINES.
+  - EXAMPLE: Crown Vics share the same handling line. Explorers share the same handling line.
+  - NOTE: Explorers are made slower in acceleration purposely.
