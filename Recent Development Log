@@ -1,35 +1,37 @@
-Development Log | September 14th, 2022
-Additions, bug fixes, and balances.
+[@HiddenRP Updates]
 
-Sever
-• Updated to the latest FiveM artifacts.
+Development Log | October 9th, 2022
+Juicinesssssss!!!!
+
+Server
+• Updated server artifacts to the latest stable build for performance.
+• Significant vehicle, clothing, and script optimizations to improve client performance.
+• Added various logs to prevent exploitations.
+• Patched various exploitations within the server.
 
 City
-• The number of required police to do robberies/missions have been reduced.
-• Added /rag which will ragdoll your ped until the command is run again.
-• A ton of new female and male clothing additions have been added.
-• Bike Rentals have been added.
-• Mining has been significantly buffed.
-  - Mining is also now fixed.
-• Unemployment checks have been increased.
-• Government taxes have been reduced.
-• Tax amount has been formatted and rounded. 
-• Garbage materials have been increased.
-• Recycling center materials have been increased.
-• Scrapping vehicle materials have been tweaked and increased.
-• Filing kits may now be obtained and crafted.
-• Crack cocaine has been added.
-• Drugs can now be robbed from you by the NPCs you sell to via corner selling.
-• New business added.
-  - Hayes Auto South (Mechanic Shop)
-• Gang Turfs have been added.
-  - A all-new system for whitelisted gangs within the city to claim their turf by spray painting their custom graffiti throughout areas.
-  - Gang NPC-s spawn inside the turf which allows gang members to stock them w/ items to distribute/sell.
-  - Gangs can "scratch" graffiti made by other gangs.
-  - You can discover rival gang sprays to show them on your map.
+• Added pockets animation.
+• 100+ new clothing varieties.
+- New hairstyles.
+- New accessories.
+- New shirt/pant variants.
+- New shoes.
+- Tons more.
+• Fixed radio's from not working properly.
+• Added Gang/Work Uniforms to Police/EMS.
+• City Hall has been updated and redone.
+• Bank Truck Robbery now has police notifications.
+• Recycling Center has made its way back to the city.
+• All drug-related missions now have police notifications.
+• Added an all-new variety of weapons to the Bobcat Security Heist loot pool.
+• The chance to obtain a Bobcat Security Card has been increased within a certain heist.
+• Weaponry Crafting has been updated.
+- All lore guns will exist in the city but will be phased out by seizure by police or breaking.
 
 Emergency Services
-• ALL HANDLING LINES HAVE BEEN UPDATED.
-  - BOTH DEPARTMENTS HAVE THE SAME HANDLING LINES.
-  - EXAMPLE: Crown Vics share the same handling line. Explorers share the same handling line.
-  - NOTE: Explorers are made slower in acceleration purposely.
+• Fixed siren control module bug with sirens.
+• Added takedowns to the siren control module, O Muscle Menu  Plugins tab  Takedowns.
+• The Police Glock-17 has been buffed significantly.
+• The SAHP 2013 Harley Electra Glide was buffed.
+• Added Gang/Work Uniforms to Police/EMS.
+• Added more notifications to increase calls.
