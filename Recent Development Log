@@ -1,37 +1,50 @@
-[@HiddenRP Updates]
-
-Development Log | October 9th, 2022
-Juicinesssssss!!!!
+Welcome back, Hidden Roleplay
+The city is now open.
 
 Server
-• Updated server artifacts to the latest stable build for performance.
-• Significant vehicle, clothing, and script optimizations to improve client performance.
-• Added various logs to prevent exploitations.
-• Patched various exploitations within the server.
+• New Dedicated Machine Hardware
+• Increase Database Loading Speeds
+• Server-wide optimizations have been implemented.
+- Vehicle Optimizations
+- Script Optimizations
 
 City
-• Added pockets animation.
-• 100+ new clothing varieties.
-- New hairstyles.
-- New accessories.
-- New shirt/pant variants.
-- New shoes.
-- Tons more.
-• Fixed radio's from not working properly.
-• Added Gang/Work Uniforms to Police/EMS.
-• City Hall has been updated and redone.
-• Bank Truck Robbery now has police notifications.
-• Recycling Center has made its way back to the city.
-• All drug-related missions now have police notifications.
-• Added an all-new variety of weapons to the Bobcat Security Heist loot pool.
-• The chance to obtain a Bobcat Security Card has been increased within a certain heist.
-• Weaponry Crafting has been updated.
-- All lore guns will exist in the city but will be phased out by seizure by police or breaking.
+• Revamped Economy.
+- Daily Life revamps.
+- Paycheck System revamped.
+- Starting Money Reworked.
+- Vehicle Payments Due has been changed from 5 days to 7 Days.
+- Vehicle Payments Upped to 24 from 16 to lower overall payment price.
+- Vehicle Down Payment reduced from 35% to 20% for cheaper financing costs.
+- All public and whitelisted jobs have been reworked in terms of payouts.
+- Added Weekly Stimulus Checks
+• All new inventory systems.
+• New UI System.
+- New HUD System
+- New Minigames
+- New Utilities
+• Added Persistent Vehicles for Personal Vehicles. They will no longer despawn.
+• All new housing and apartment shells.
+• Reworked Hunting & Fishing.
+• Guide Book added.
+• Stater Item Package has been introduced.
+• Illegal Activity reworks.
+• All new farming job added.
+• Personal Gains & Buffs added.
+• Gym System introduced. Work out and get them gains!
+• Prop Tornado bug has been fixed.
+• Garage rework for stability.
+• Added the ability for realtors to change housing shells.
+• Added a "special laptop" for various utilities such as but not limited to Car Boosting.
+• All new items on the back mechanic has been introduced.
+• Added a Speed Limiter which can be activated with "U".
 
 Emergency Services
-• Fixed siren control module bug with sirens.
-• Added takedowns to the siren control module, O Muscle Menu  Plugins tab  Takedowns.
-• The Police Glock-17 has been buffed significantly.
-• The SAHP 2013 Harley Electra Glide was buffed.
-• Added Gang/Work Uniforms to Police/EMS.
-• Added more notifications to increase calls.
+• Reworked the SAPDS making it one universal department.
+• Revamped Vehicles.
+• Reworked Police Ranks.
+• Reworked 911 Dispatching System.
+• Added "Fight in Progress" & "Reckless Driving" calls.
+• Added various alerts for illegal activities.
+• Reworked and added new features such as CCTV to the MDT.
+• Added /311 for non-emergencies.
