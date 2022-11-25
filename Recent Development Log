@@ -1,50 +1,43 @@
-Welcome back, Hidden Roleplay
-The city is now open.
+Development Update • November 19th, 2022
 
 Server
-• New Dedicated Machine Hardware
-• Increase Database Loading Speeds
-• Server-wide optimizations have been implemented.
-- Vehicle Optimizations
-- Script Optimizations
+• Optimized a few emergency unit textures to improve stability.
+• Update to the latest FiveM artifacts.
 
 City
-• Revamped Economy.
-- Daily Life revamps.
-- Paycheck System revamped.
-- Starting Money Reworked.
-- Vehicle Payments Due has been changed from 5 days to 7 Days.
-- Vehicle Payments Upped to 24 from 16 to lower overall payment price.
-- Vehicle Down Payment reduced from 35% to 20% for cheaper financing costs.
-- All public and whitelisted jobs have been reworked in terms of payouts.
-- Added Weekly Stimulus Checks
-• All new inventory systems.
-• New UI System.
-- New HUD System
-- New Minigames
-- New Utilities
-• Added Persistent Vehicles for Personal Vehicles. They will no longer despawn.
-• All new housing and apartment shells.
-• Reworked Hunting & Fishing.
-• Guide Book added.
-• Stater Item Package has been introduced.
-• Illegal Activity reworks.
-• All new farming job added.
-• Personal Gains & Buffs added.
-• Gym System introduced. Work out and get them gains!
-• Prop Tornado bug has been fixed.
-• Garage rework for stability.
-• Added the ability for realtors to change housing shells.
-• Added a "special laptop" for various utilities such as but not limited to Car Boosting.
-• All new items on the back mechanic has been introduced.
-• Added a Speed Limiter which can be activated with "U".
+• Added car boosting.
+- Need something stronger than a phone which can browse the inner web with.
+- Requires some sort of disabler to obtain the application.
+• All new housing system w/ furniture system.
+• Added a furniture store near Sandy Shores.
+• Add various loot to a variety of different activities within the city.
+• Introduced a different way to access the dark web through a Laptop.
+• Real-time Crypto Currency based on ETH (Ethereum).
+• Crypto Currency is now usable in means such as the dark web.
+• A variety of female clothing, hairstyles, and accessories have been added.
+• `/binds` is now functional.
+• Crafting images have been added to the crafting system.
+• All trunk capacities have been adjusted. This is per vehicle class.
+• Scuba Diving has been buffed.
+• Hunting has been buffed.
+• Hunting / Fishing licenses can now be obtained, talk to a PD supervisor.
+• Hayes Auto South has been re-introduced.
+• Fixed Barber Spawn.
+• Fixed Spawning in Dead.
 
 Emergency Services
-• Reworked the SAPDS making it one universal department.
-• Revamped Vehicles.
-• Reworked Police Ranks.
-• Reworked 911 Dispatching System.
-• Added "Fight in Progress" & "Reckless Driving" calls.
-• Added various alerts for illegal activities.
-• Reworked and added new features such as CCTV to the MDT.
-• Added /311 for non-emergencies.
+• Added `signal100` sound effect.
+• Added `/panic` sound effect.
+• Added `fire/ems tone` sound effect.
+
+Police
+MDT Overhaul
+• Added a "CCTV Page" to the MDT.
+- Displays all active CCTV cameras available to view.
+• Added a "Weapons Page" to the MDT.
+- Database will show registered firearms w/ notes and the registered owner.
+• Added a ton of new "Penal Codes".
+• Added "Penal Code" descriptions.
+• Reworked fine pricing and sentences.
+
+The update has been pushed to the main server. Get on and let's get it going!
