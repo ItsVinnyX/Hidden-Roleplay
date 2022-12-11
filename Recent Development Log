@@ -1,43 +1,53 @@
-Development Update • November 19th, 2022
+Development Log • December 11th, 2022
 
 Server
-• Optimized a few emergency unit textures to improve stability.
-• Update to the latest FiveM artifacts.
+• Updated to the latest FiveM artifacts.
+• Updated our txAdmin version.
+• Optimized various resources.
+• Re-worked various logging within the city in efforts to prevent confusion as well as future bugs.
 
 City
-• Added car boosting.
-- Need something stronger than a phone which can browse the inner web with.
-- Requires some sort of disabler to obtain the application.
-• All new housing system w/ furniture system.
-• Added a furniture store near Sandy Shores.
-• Add various loot to a variety of different activities within the city.
-• Introduced a different way to access the dark web through a Laptop.
-• Real-time Crypto Currency based on ETH (Ethereum).
-• Crypto Currency is now usable in means such as the dark web.
-• A variety of female clothing, hairstyles, and accessories have been added.
-• `/binds` is now functional.
-• Crafting images have been added to the crafting system.
-• All trunk capacities have been adjusted. This is per vehicle class.
-• Scuba Diving has been buffed.
-• Hunting has been buffed.
-• Hunting / Fishing licenses can now be obtained, talk to a PD supervisor.
-• Hayes Auto South has been re-introduced.
-• Fixed Barber Spawn.
-• Fixed Spawning in Dead.
+• Fixed certain items from not disappearing.
+• Fixed certain items from not producing thirst or hunger levels.
+• Fixed pig farming cooldown issues.
+• Possibly fixed an issue with vehicles appearing damaged when removed from a garage. (Needs further testing)
+• ALL NEW Pet System has been introduced.
+- Leveling System
+- Hunting & Gathering System
+- Ownership System
+- Food & Health System (Feed ya god damn pets!!!)
+And much much more!
+• ALL NEW Casino System
+- Management System
+- Drinking System
+- Slots
+- Poker
+- Roulette
+- Blackjack  
+- Inside Track Betting
+And much much more!
+• THE GYM has arrived!
+- Leveling System
+- Boosts & Buffs
+NOTE: The gym is subjectable to change. Do NOT get comfortable with the current outcomes. This is solely being tested, memberships are expensive but in good reason.
+• Removed "Reckless Driving" calls from Police.
 
 Emergency Services
-• Added `signal100` sound effect.
-• Added `/panic` sound effect.
-• Added `fire/ems tone` sound effect.
+• All paychecks have been increased significantly...
 
 Police
-MDT Overhaul
-• Added a "CCTV Page" to the MDT.
-- Displays all active CCTV cameras available to view.
-• Added a "Weapons Page" to the MDT.
-- Database will show registered firearms w/ notes and the registered owner.
-• Added a ton of new "Penal Codes".
-• Added "Penal Code" descriptions.
-• Reworked fine pricing and sentences.
+• Added a "Radar Gun" to the armory.
 
-The update has been pushed to the main server. Get on and let's get it going!
+EMS/Fire
+• Back in action! Apply within #┃application-hub.
+• Re-worked randomized fires with various locations throughout the city.
+• Fixed various bugs and issues within the job & injury system.
+
+As always, if you have any questions, feel free to reach out! Also, if you have any suggestions please let us know in #┃suggest-here!
+Thank you for your continuous support and feedback!
+
+SIDE NOTE
+Warm welcome to all the new individuals here, it's great to see everyone coming together :D
+
+Till the next one
+See you tonight...
