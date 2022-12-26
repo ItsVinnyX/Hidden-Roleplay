@@ -1,53 +1,21 @@
-Development Log • December 11th, 2022
+Development Log • December  26th, 2022
+Short and sweet bug/quality of life updates.
 
 Server
-• Updated to the latest FiveM artifacts.
-• Updated our txAdmin version.
-• Optimized various resources.
-• Re-worked various logging within the city in efforts to prevent confusion as well as future bugs.
+• Stability updates, vehicle optimizations, cache clearing, texture resizes.
+• Whitelisted various events within the anti-cheat to prevent exploitation.
+• Reverted artifacts to a more stable and smooth Cfx version.
+• Database connectivity tweaks for faster queues.
 
 City
-• Fixed certain items from not disappearing.
-• Fixed certain items from not producing thirst or hunger levels.
-• Fixed pig farming cooldown issues.
-• Possibly fixed an issue with vehicles appearing damaged when removed from a garage. (Needs further testing)
-• ALL NEW Pet System has been introduced.
-- Leveling System
-- Hunting & Gathering System
-- Ownership System
-- Food & Health System (Feed ya god damn pets!!!)
-And much much more!
-• ALL NEW Casino System
-- Management System
-- Drinking System
-- Slots
-- Poker
-- Roulette
-- Blackjack  
-- Inside Track Betting
-And much much more!
-• THE GYM has arrived!
-- Leveling System
-- Boosts & Buffs
-NOTE: The gym is subjectable to change. Do NOT get comfortable with the current outcomes. This is solely being tested, memberships are expensive but in good reason.
-• Removed "Reckless Driving" calls from Police.
-
-Emergency Services
-• All paychecks have been increased significantly...
-
-Police
-• Added a "Radar Gun" to the armory.
-
-EMS/Fire
-• Back in action! Apply within #┃application-hub.
-• Re-worked randomized fires with various locations throughout the city.
-• Fixed various bugs and issues within the job & injury system.
-
-As always, if you have any questions, feel free to reach out! Also, if you have any suggestions please let us know in #┃suggest-here!
-Thank you for your continuous support and feedback!
-
-SIDE NOTE
-Warm welcome to all the new individuals here, it's great to see everyone coming together :D
-
-Till the next one
-See you tonight...
+• Tweaked farm pricing for food processing.
+• Various garage bug fixes. Major revamps.
+• Various updates for the mechanic job.
+• Various bug fixes within the mechanic job.
+• MAJOR bug fixes within car boosting.
+- Fixed the bug with the cop limiter.
+- Revamped the queuing system.
+• Fixed various issues with boomboxes.
+• Significantly reduced the stress system from driving.
+• Removed the ability to rob and lockpick player-owned houses.
+• Made player-owned housing blips no longer viewable.
