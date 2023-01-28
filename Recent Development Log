@@ -1,21 +1,55 @@
-Development Log • December  26th, 2022
-Short and sweet bug/quality of life updates.
+Content Update • January 27th, 2023
 
 Server
-• Stability updates, vehicle optimizations, cache clearing, texture resizes.
-• Whitelisted various events within the anti-cheat to prevent exploitation.
-• Reverted artifacts to a more stable and smooth Cfx version.
-• Database connectivity tweaks for faster queues.
+• Various resource optimizations.
+• Various texture optimizations within vehicles as well as clothing.
+• Updated a variety of resources to improve and limit potential bugs.
+• Removed unnecessary database entries.
+• Removed unused assets.
 
 City
-• Tweaked farm pricing for food processing.
-• Various garage bug fixes. Major revamps.
-• Various updates for the mechanic job.
-• Various bug fixes within the mechanic job.
-• MAJOR bug fixes within car boosting.
-- Fixed the bug with the cop limiter.
-- Revamped the queuing system.
-• Fixed various issues with boomboxes.
-• Significantly reduced the stress system from driving.
-• Removed the ability to rob and lockpick player-owned houses.
-• Made player-owned housing blips no longer viewable.
+• ALL NEW IN-DEPTH PHONE SYSTEM
+  A major learning curve and something we all need to get used to, view below details for more information.
+  - Realtime Facetiming
+  - Instagram
+  - Twitter
+  - In-depth Race Scene
+And much much more!
+• A NEW EDM ROTATION has been delivered to the EDM.
+• The Cayo Perico Island has been introduced.
+  - Major plans with the island will be implemented very soon!
+• The Documents Heist has been reintroduced.
+• BurgerShot is now a registered business.
+• The Tequilala is now a registered business.
+• Tweaked various outputs such as payouts in terms of monetary as well as physical gain such as materials.
+• The Garbage job has been slightly buffed.
+• Scrapping has been buffed.
+• Hunting has been dramatically buffed.
+• Fishing tweaks have been made.
+• Various interior updates.
+• Various clothing updates.
+   - Male & Female as well as Unisex attire.
+   - Hairstyles
+   - Accessories
+   - General Attire
+• More Emote Packages.
+   - Dances
+   - Props & more
+
+Emergency Services
+• MDT adjustments and penal code additions.
+
+Police
+• ALL NEW LSPD/LSCSO 2023 VEHICLE FLEET
+  NOTE: Handling lines are not final and are always subjectable to change for improvement.
+  - We have purchased the top-of-the-line vehicle package that's currently out there.
+  - We do have other vehicles in the works such as trucks and potentially a Durango.
+
+Fire/EMS
+• Tweaked Fire Outputs
+• Fixed ambulance job bug with armory.
+• Fixed Pillbox Doors from clipping with the base game interior.
+
+GIVING PHONE CONTACTS
+NOTE: Air Dropping is enabled. This will allow individuals to share their contacts easily.
+Simply drag the top screen down and hit the Bluetooth icon when nearby a fellow player. An ID will pop up, proceed by selecting their ID.
