@@ -1,55 +1,41 @@
-Content Update • January 27th, 2023
+Quality of Life Update // Bug Fixes • February 2nd, 2023
+The changes have been pushed to the live environment and the city is now joinable.
 
 Server
-• Various resource optimizations.
-• Various texture optimizations within vehicles as well as clothing.
-• Updated a variety of resources to improve and limit potential bugs.
-• Removed unnecessary database entries.
-• Removed unused assets.
+• Updated to the latest FiveM artifacts.
+• Continuous resource optimizations.
+• Added more anti-cheat tweaks to increase protection from wizards.
 
 City
-• ALL NEW IN-DEPTH PHONE SYSTEM
-  A major learning curve and something we all need to get used to, view below details for more information.
-  - Realtime Facetiming
-  - Instagram
-  - Twitter
-  - In-depth Race Scene
-And much much more!
-• A NEW EDM ROTATION has been delivered to the EDM.
-• The Cayo Perico Island has been introduced.
-  - Major plans with the island will be implemented very soon!
-• The Documents Heist has been reintroduced.
-• BurgerShot is now a registered business.
-• The Tequilala is now a registered business.
-• Tweaked various outputs such as payouts in terms of monetary as well as physical gain such as materials.
-• The Garbage job has been slightly buffed.
-• Scrapping has been buffed.
-• Hunting has been dramatically buffed.
-• Fishing tweaks have been made.
-• Various interior updates.
-• Various clothing updates.
-   - Male & Female as well as Unisex attire.
-   - Hairstyles
-   - Accessories
-   - General Attire
-• More Emote Packages.
-   - Dances
-   - Props & more
-
-Emergency Services
-• MDT adjustments and penal code additions.
+• FaceTiming has been fixed.
+• Various boosting bug fixes.
+• New car boosting rotation. 
+  - NOTE: Some older cars will remain.
+• ADDED 88 New Housing Interiors // Shells.
+• Changed the 2015 Dodge Ram 2500 to a ALL NEW 2020 Dodge Ram 2500.
+• Changed various messages as well as colors.
+• Fixed weapon holsters from not working properly.
+• Fixed watermark and postal issues.
+• Added Third-person Recoil when shooting while in a vehicle.
+• Removed watermark and postal from showing in pictures within the new phone.
+• Change in-game announcement color
+• Allow admins to grant hunting/fishing licenses.
+• Fixed the Mail Job vehicle gas levels and key access issues.
+• Finally changed the prison default clothing.
+• Outfit bags are possibly fixed. Please use at your own risk, non-refundable.
+• Hunting has been significantly buffed.
+• Fixed various mechanic bugs as well as loggings.
 
 Police
-• ALL NEW LSPD/LSCSO 2023 VEHICLE FLEET
-  NOTE: Handling lines are not final and are always subjectable to change for improvement.
-  - We have purchased the top-of-the-line vehicle package that's currently out there.
-  - We do have other vehicles in the works such as trucks and potentially a Durango.
+• Added AIR-1 certification.
+• Added a Bean Bag Shotgun.
+• Fixed various logging systems.
+• Added H.E.A.T Unit certification.
+• Fixed the 2014 Chevy Tahoe Sheriff Livery.
+• Tweaked all Dodge Chargers breaking and turning.
+• Tweaked all Ford Explorers breaking as well as turning.
+• Added Game Warden // Park Ranger permissions to certain units till ready for public release.
 
 Fire/EMS
-• Tweaked Fire Outputs
-• Fixed ambulance job bug with armory.
-• Fixed Pillbox Doors from clipping with the base game interior.
-
-GIVING PHONE CONTACTS
-NOTE: Air Dropping is enabled. This will allow individuals to share their contacts easily.
-Simply drag the top screen down and hit the Bluetooth icon when nearby a fellow player. An ID will pop up, proceed by selecting their ID.
+• Various Fire/EMS job bug fixes.
+• Fire Script will return soon, hopefully by this weekend.
