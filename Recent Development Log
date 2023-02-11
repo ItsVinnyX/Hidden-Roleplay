@@ -1,41 +1,36 @@
-Quality of Life Update // Bug Fixes • February 2nd, 2023
-The changes have been pushed to the live environment and the city is now joinable.
+Development Log • February 10th, 2023
+Various optimizations, bug fixes, and quality-of-life improvements.
+The update is now live and pushed to the main environment.
 
 Server
-• Updated to the latest FiveM artifacts.
-• Continuous resource optimizations.
-• Added more anti-cheat tweaks to increase protection from wizards.
+• All vehicles in the city have been completely optimized to reduce headaches.
+ - 73.7% size reduction of over-sized assets.
+• All clothing in the city has been optimized to reduce headaches.
+• All weapon models in the city have been optimized to reduce headaches.
 
 City
-• FaceTiming has been fixed.
-• Various boosting bug fixes.
-• New car boosting rotation. 
-  - NOTE: Some older cars will remain.
-• ADDED 88 New Housing Interiors // Shells.
-• Changed the 2015 Dodge Ram 2500 to a ALL NEW 2020 Dodge Ram 2500.
-• Changed various messages as well as colors.
-• Fixed weapon holsters from not working properly.
-• Fixed watermark and postal issues.
-• Added Third-person Recoil when shooting while in a vehicle.
-• Removed watermark and postal from showing in pictures within the new phone.
-• Change in-game announcement color
-• Allow admins to grant hunting/fishing licenses.
-• Fixed the Mail Job vehicle gas levels and key access issues.
-• Finally changed the prison default clothing.
-• Outfit bags are possibly fixed. Please use at your own risk, non-refundable.
-• Hunting has been significantly buffed.
-• Fixed various mechanic bugs as well as loggings.
+• ALL NEW Group Perk Humane Labs Heist
+• Bowling w/ Real-life Physics has been added.
+• The Luna Amusement Park has been added.
+With working attractions such as:
+- Ferris Wheel
+- Roller Coaster
+- Free Fall
+• IRL Working Televisions have been introduced into the city.
+• Various Nerfs, Buffs, and Balances have been made throughout the city.
+• Farming tweaks have been made.
+• Continuous messaging reworks.
+• The Truck Robbery has been tweaked.
+• The Restocker Job has been buffed.
+• Hunting has been buffed.
+• New exclusive emotes :wink:
 
 Police
-• Added AIR-1 certification.
-• Added a Bean Bag Shotgun.
-• Fixed various logging systems.
-• Added H.E.A.T Unit certification.
-• Fixed the 2014 Chevy Tahoe Sheriff Livery.
-• Tweaked all Dodge Chargers breaking and turning.
-• Tweaked all Ford Explorers breaking as well as turning.
-• Added Game Warden // Park Ranger permissions to certain units till ready for public release.
+• New Code 3 Siren for LSCSO/LSPD
+- This should be easier on the ears. I will work on tweaking it as best as possible.
+- At the end of the day it's a siren, a siren will be more on the louder end. :itsVinNoDoubt:
 
-Fire/EMS
-• Various Fire/EMS job bug fixes.
-• Fire Script will return soon, hopefully by this weekend.
+NOTE: Please continue to suggest your ideas within #┃suggest-here. All suggestions are looked at daily to weekly. A content update is under development so if you have a unique cool idea feel free to share it! 
+
+With this change-log it is highly recommended that you clear your cache.
+You may also experience a crash or two due to the server's cache being cleared as well. Please refrain from reporting these unless they occur more than 3 times.
