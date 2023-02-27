@@ -1,37 +1,37 @@
-Development Log • February 10th, 2023
-Various optimizations, bug fixes, and quality-of-life improvements.
-The update is now live and pushed to the main environment.
+Development Log • February 24th, 2023
+Bug fixes, additions, and quality-of-life improvements.
 
 Server
-• Updated to the latest FiveM artifacts.
-• All vehicles in the city have been completely optimized to reduce headaches.
- - 73.7% size reduction of oversized assets.
-• All clothing in the city has been optimized to reduce headaches.
-• All weapon models in the city have been optimized to reduce headaches.
+• All new heavy-duty machine.
+• Database pooling tweaked for quicker querying.
+• Optimized various new resources such as vehicles, weapon models, and scripts.
 
 City
-• ALL NEW Group Perk Humane Labs Heist
-• Bowling w/ Real-life Physics has been added.
-• The Luna Amusement Park has been added.
-With working attractions such as:
-- Ferris Wheel
-- Roller Coaster
-- Free Fall
-• IRL Working Televisions have been introduced into the city.
-• Various Nerfs, Buffs, and Balances have been made throughout the city.
-• Farming tweaks have been made.
-• Continuous messaging reworks.
-• The Truck Robbery has been tweaked.
-• The Restocker Job has been buffed.
-• Hunting has been buffed.
-• New exclusive emotes :wink:
+• Fixed various EDM handling lines.
+• Added a Global Robbery Cooldown.
+- This will prevent multiple high-tier robberies to occur at once.
+• Added employee garages to Benny's Auto, Otto's Auto, Burgershot, and Bean Machine.
+• Increased all grocery store stock. 
+- Doing the restocker job restocks stores!
+• Hunting/Fishing Licenses now expire in 21 days instead of 10.
+- Hunting Licenses are now $750.
+- Fishing Licenses are now $550.
+• Fishing has been buffed.
+• Mining has been buffed.
+• Added more furniture options.
+- Music Studio options.
+- Various décor options added as well.
+• Various walking styles that can be abused have been removed.
+• Removed the ability to talk on the radio while handcuffed.
 
 Police
-• New Code 3 Siren for LSCSO/LSPD
-- This should be easier on the ears. I will work on tweaking it as best as possible.
-- At the end of the day it's a siren, a siren will be more on the louder end. :itsVinNoDoubt:
+• Lowered the time it takes to pull out a rifle from the Rifle Back.
+• The LSPD/LSCSO 2014/2018 Chevrolet Tahoe handling line has been adjusted.
+• The LSPD/LSCSO 2013/2016/2022 Ford Explorer handling line has been adjusted.
+• The LSPD/LSCSO 2014/2018 Dodge Charger handling line has been adjusted.
 
-NOTE: Please continue to suggest your ideas within #┃suggest-here. All suggestions are looked at daily to weekly. A content update is under development so if you have a unique cool idea feel free to share it! 
+Fire/EMS
+• Added back random fires.
+• Added working fire ladders.
 
-With this change-log it is highly recommended that you clear your cache.
-You may also experience a crash or two due to the server's cache being cleared as well. Please refrain from reporting these unless they occur more than 3 times.
+I highly suggest you clear your cache after this update is pushed.
