@@ -1,37 +1,81 @@
-Development Log • February 24th, 2023
-Bug fixes, additions, and quality-of-life improvements.
+Development Log • March 15th, 2023
+Bug fixes, additions, and major quality-of-life improvements.
 
 Server
-• All new heavy-duty machine.
-• Database pooling tweaked for quicker querying.
+• Internal server and infrastructure upgrades.
+• Updated HiddenBOT to allow `!tickets`, `!code`, `/tickets`, and `/code` to function once again.
 • Optimized various new resources such as vehicles, weapon models, and scripts.
+• Added various logging to help further prevent issues.
 
 City
-• Fixed various EDM handling lines.
-• Added a Global Robbery Cooldown.
-- This will prevent multiple high-tier robberies to occur at once.
-• Added employee garages to Benny's Auto, Otto's Auto, Burgershot, and Bean Machine.
-• Increased all grocery store stock. 
-- Doing the restocker job restocks stores!
-• Hunting/Fishing Licenses now expire in 21 days instead of 10.
-- Hunting Licenses are now $750.
-- Fishing Licenses are now $550.
-• Fishing has been buffed.
-• Mining has been buffed.
-• Added more furniture options.
-- Music Studio options.
-- Various décor options added as well.
-• Various walking styles that can be abused have been removed.
-• Removed the ability to talk on the radio while handcuffed.
+• Added Frisbee Golf.
+• Vehicle NOS has been nerfed.
+• Coastline engine sound has changed.
+• ATM Robberies have been adjusted and now have cooldowns.
+• Upped pay ranges for a variety of legal-oriented jobs.
+• Upped the PD command `/paytow` from $500.00 to $1,250.00.
+- `/towcharge` is also available for tow units to charge customers.
+- `/billing <id <amount` is also available for tow units use.
+• Adjusted a variety of damage modifiers debuffs/buffs.
+- Weaponry Damage
+- Vehicle Damage
+- Player Damage
+• Lowered stress tiers.
+• Added Car Wax Variants to Mechanics.
+- Tier 1 | Keeps vehicle clean for 30 minutes.
+- Tier 2 | Keeps vehicle clean for 60 minutes.
+- Tier 3 | Keeps vehicle clean for 90 minutes.
+• Adjusted a vehicle body/engine damage.
+• Fixed vehicle repair and cleaning kits.
+• Adjusted Injury System
+- Reduced Bleed Ratios
+- Reduced Blackout Chance
+- Reduced Leg Injury Chance
+- Reduced Leg Injury Chance
+• Humane Lab Adjustments
+- Fixed Humane Labs Payout.
+- Fixed Humane Labs Police Alert.
+- Added Humane Labs Heist to The Scoreboard.
+• Cat Café has been introduced.
+- Added an exclusive item Cat Café.
+- Added Cat Café to the scoreboard.
+• Vanilla Unicorn has been introduced.
+- Added an exclusive item Vanilla Unicorn.
+- Unique job script to make the Vanilla Unicorn enjoyable.
+- Added Vanilla Unicorn to the scoreboard.
+- Added `/vutip` to tip Vanilla Unicorn employees.
+- Added a Public Vanilla Unicorn Garage to prevent headaches within the area.
+• New DJ Booth System.
+• Fixed various Boombox issues.
+• Added various additional props to the city to further immersion.
+• Tweaked various job payouts.
+• Squashed various bugs.
+• Added the ability to grow/harvest weed anywhere.
+- Drug running within as well.
+• The 2000 Nissan Silvia S15 has been changed to a 2015 Nissan Silvia S15
+- Better model overall and has been automatically introduced to all current owner's garages.
+• DSLR Cameras will now upload cloud media within DSLR-Media.
+• Giving/Receiving items will now show the player's initials instead of their full name.
+• Removed all liveries from the 2020 Audi RS6 which will prevent randomized liveries from appearing.
+• Removed all liveries from the 1990 BMW E30 which will prevent randomized liveries from appearing.
+
+EDM Rotation
+Earlier this morning the EDM crew unloaded a new shipment from the docks. The Exclusive Deluxe Motorsport Dealership now has a new set of vehicles!!
 
 Police
-• Lowered the time it takes to pull out a rifle from the Rifle Back.
-• The LSPD/LSCSO 2014/2018 Chevrolet Tahoe handling line has been adjusted.
-• The LSPD/LSCSO 2013/2016/2022 Ford Explorer handling line has been adjusted.
-• The LSPD/LSCSO 2014/2018 Dodge Charger handling line has been adjusted.
-
-Fire/EMS
-• Added back random fires.
-• Added working fire ladders.
-
-I highly suggest you clear your cache after this update is pushed.
+• The MK-18 has been buffed.
+• Sub-Division Garage added.
+• Vehicle Structure has been introduced.
+• Uniform Structure has been introduced.
+• All new S.W.A.T. uniform variants have been added.
+• S.W.A.T Bearcat has been added.
+• S.W.A.T. MRAP has been added.
+• S.W.A.T. NRS-9 Rifle has been added.
+• Adjusted Weapon Classes via Dispatch.
+• Added DSLR Camera to the armory.
+- Media will be uploaded via the cloud to a separate channel within our emails.
+• All PD Vehicles can now be fixed via the self-served/player-owned mechanic system.
+• All PD Vehicles have been reinforced with armor and bullet resistance refactoring.
+• All HP vehicles have been adjusted to match the new LSPD/LSCSO fleet.
+• PD has received two variants of a Sig Sauer P320 FIVE X Firearm.
+• All LSPD/LSCSO Vehicles now have unmarked vehicles.
