@@ -1,81 +1,96 @@
-Development Log • March 15th, 2023
-Bug fixes, additions, and major quality-of-life improvements.
+Development Log • April 22nd, 2023
+Bug fixes, many additions, quality of life changes, and more!
 
 Server
-• Internal server and infrastructure upgrades.
-• Updated HiddenBOT to allow `!tickets`, `!code`, `/tickets`, and `/code` to function once again.
-• Optimized various new resources such as vehicles, weapon models, and scripts.
-• Added various logging to help further prevent issues.
+• Various resource optimizations.
+- Vehicle textures, script, weaponry, and backend optimizations.
+• Hidden Roleplay Discord Bot additions.
 
 City
-• Added Frisbee Golf.
-• Vehicle NOS has been nerfed.
-• Coastline engine sound has changed.
-• ATM Robberies have been adjusted and now have cooldowns.
-• Upped pay ranges for a variety of legal-oriented jobs.
-• Upped the PD command `/paytow` from $500.00 to $1,250.00.
-- `/towcharge` is also available for tow units to charge customers.
-- `/billing <id <amount` is also available for tow units use.
-• Adjusted a variety of damage modifiers debuffs/buffs.
-- Weaponry Damage
-- Vehicle Damage
-- Player Damage
-• Lowered stress tiers.
-• Added Car Wax Variants to Mechanics.
-- Tier 1 | Keeps vehicle clean for 30 minutes.
-- Tier 2 | Keeps vehicle clean for 60 minutes.
-- Tier 3 | Keeps vehicle clean for 90 minutes.
-• Adjusted a vehicle body/engine damage.
-• Fixed vehicle repair and cleaning kits.
-• Adjusted Injury System
-- Reduced Bleed Ratios
-- Reduced Blackout Chance
-- Reduced Leg Injury Chance
-- Reduced Leg Injury Chance
-• Humane Lab Adjustments
-- Fixed Humane Labs Payout.
-- Fixed Humane Labs Police Alert.
-- Added Humane Labs Heist to The Scoreboard.
-• Cat Café has been introduced.
-- Added an exclusive item Cat Café.
-- Added Cat Café to the scoreboard.
-• Vanilla Unicorn has been introduced.
-- Added an exclusive item Vanilla Unicorn.
-- Unique job script to make the Vanilla Unicorn enjoyable.
-- Added Vanilla Unicorn to the scoreboard.
-- Added `/vutip` to tip Vanilla Unicorn employees.
-- Added a Public Vanilla Unicorn Garage to prevent headaches within the area.
-• New DJ Booth System.
-• Fixed various Boombox issues.
-• Added various additional props to the city to further immersion.
-• Tweaked various job payouts.
-• Squashed various bugs.
-• Added the ability to grow/harvest weed anywhere.
-- Drug running within as well.
-• The 2000 Nissan Silvia S15 has been changed to a 2015 Nissan Silvia S15
-- Better model overall and has been automatically introduced to all current owner's garages.
-• DSLR Cameras will now upload cloud media within DSLR-Media.
-• Giving/Receiving items will now show the player's initials instead of their full name.
-• Removed all liveries from the 2020 Audi RS6 which will prevent randomized liveries from appearing.
-• Removed all liveries from the 1990 BMW E30 which will prevent randomized liveries from appearing.
+• Various vehicle adjustments.
+- Handling lines.
+- Vehicle liveries.
+- Vehicle modkits.
+• Vehicle damage adjustments.
+• Removed apartment garages to avoid shared vehicle issues.
+• Removed the ability to store other player vehicles (shared vehicles).
+• Fixed various exploits.
+- Abusing Scoreboard Mechanics
+- Reload Skin Exploit
+- Certain emote abuse mechanics have been swapped around.
+- You now no longer can 3rd-eye in vehicles.
+• Various job and government pay adjustments.
+• Skateboards added.
+• Emote additions.
+• More Grandma Medical Locations have been added.
+- The prices have been adjusted for Grandma's.
+• Various combinable items have been adjusted.
+• The Reaper MC has been fully introduced.
+• Sign deconstructing has been re-introduced and tweaked.
+• Paint Thinner added in the hardware store.
+• Weapon Licenses are now $15,000. (Free Service via PD)
+• Clothing
+- Various men's clothing texture additions.
+- Various men's clothing additions.
+- Men's hairstyles added.
+- New Female Clothing is on its way!
+• Drugs
+- All new Cocaine System. (Group Locked)
+- All new Drug Processing System.
+- Various Drug Labs w/ Key Card access.
+- Weed/Cocaine have fully returned.
+- Weed Planting has been reintroduced.
+- Meth has been fully introduced.
+- LSD has been fully introduced.
+- Heroin has been added and is considered a combat drug (Overdosing System).
+• Crafting System
+- Tear Gas added.
+- Smoke Grenade added.
+- Molotov Cocktail added.
+- Brass Knuckles added.
+- Sawn-Off Shotgun added.
+- Pindad G2 Combat Pistol added.
+- Various Heist items have been added.
+- Various Medical Aid has been added.
+- Old Crafting System has been phased out.
+• Group Stash System
+- Leaders can place their own stash and limit who can access it based on rank.
+- Hackable/Breachable by other groups.
+- Raidable by Police.
+- Once fully introduced, the old stash system will be removed. Stay tuned for a group announcement soon.
+• Added Medical Section
+- Added Medical Section to Boosting Laptop.
+- iFAKS, Painkillers, Oxycodone.
+• Heists
+- Various Bobcat Security Heist tweaks.
+- All new Artifact Heist.
+• Cayo Perico
+- Is now a K.O.S (Kill on Sight) Zone
+- There is no such thing as RDM, VDM, and Pocket Wiping within that zone. (No Reports should be opened.)
+- Rules still apply besides the ones listed above.
 
-EDM Rotation
-Earlier this morning the EDM crew unloaded a new shipment from the docks. The Exclusive Deluxe Motorsport Dealership now has a new set of vehicles!!
+EDM // Daily Drivers
+• All new shipments of vehicles have been delivered.
+- The EDM rotation has made its way to the city.
+- Daily Drivers rotation has made its way to the city.
+
+Emergency Services
+• Full MDT update.
+- Dispatching Map
+- UI Overhaul
+- Synced Reports
 
 Police
-• The MK-18 has been buffed.
-• Sub-Division Garage added.
-• Vehicle Structure has been introduced.
-• Uniform Structure has been introduced.
-• All new S.W.A.T. uniform variants have been added.
-• S.W.A.T Bearcat has been added.
-• S.W.A.T. MRAP has been added.
-• S.W.A.T. NRS-9 Rifle has been added.
-• Adjusted Weapon Classes via Dispatch.
-• Added DSLR Camera to the armory.
-- Media will be uploaded via the cloud to a separate channel within our emails.
-• All PD Vehicles can now be fixed via the self-served/player-owned mechanic system.
-• All PD Vehicles have been reinforced with armor and bullet resistance refactoring.
-• All HP vehicles have been adjusted to match the new LSPD/LSCSO fleet.
-• PD has received two variants of a Sig Sauer P320 FIVE X Firearm.
-• All LSPD/LSCSO Vehicles now have unmarked vehicles.
+• Spike Strips are now an item.
+• The PD Shotgun has been slightly nerfed.
+• 2013 Harley Davidson Electra Glide has been buffed.
+• AIR-1 Unit has been nerfed (Gas Limitation Added).
+• 2014/2018 Dodge Charger handling lines tweaked.
+
+Fire/EMS
+• Tweaked healing mechanics to further heal an individual.
+• Hospital bills have been changed to $1,500.00.
+
+P.S. CLEAR YOUR CACHE
+
+As per all bigger-end updates, bugs are prone to occur. The best form of testing is by crowdsourcing. Over the next few days, the update will be heavily monitored and tweaked if applicable.
