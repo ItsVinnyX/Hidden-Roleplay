@@ -1,96 +1,68 @@
-Development Log • April 22nd, 2023
-Bug fixes, many additions, quality of life changes, and more!
-
+Development Log • May 28th, 2023
+Bug fixes, quality of life updates, new features, and more!
+This update will be split into two parts. This is part one.
+The second part is still under development and will be soon released!
+ 
 Server
-• Various resource optimizations.
-- Vehicle textures, script, weaponry, and backend optimizations.
-• Hidden Roleplay Discord Bot additions.
-
-City
-• Various vehicle adjustments.
-- Handling lines.
-- Vehicle liveries.
-- Vehicle modkits.
-• Vehicle damage adjustments.
-• Removed apartment garages to avoid shared vehicle issues.
-• Removed the ability to store other player vehicles (shared vehicles).
-• Fixed various exploits.
-- Abusing Scoreboard Mechanics
-- Reload Skin Exploit
-- Certain emote abuse mechanics have been swapped around.
-- You now no longer can 3rd-eye in vehicles.
-• Various job and government pay adjustments.
-• Skateboards added.
-• Emote additions.
-• More Grandma Medical Locations have been added.
-- The prices have been adjusted for Grandma's.
-• Various combinable items have been adjusted.
-• The Reaper MC has been fully introduced.
-• Sign deconstructing has been re-introduced and tweaked.
-• Paint Thinner added in the hardware store.
-• Weapon Licenses are now $15,000. (Free Service via PD)
-• Clothing
-- Various men's clothing texture additions.
-- Various men's clothing additions.
-- Men's hairstyles added.
-- New Female Clothing is on its way!
-• Drugs
-- All new Cocaine System. (Group Locked)
-- All new Drug Processing System.
-- Various Drug Labs w/ Key Card access.
-- Weed/Cocaine have fully returned.
-- Weed Planting has been reintroduced.
-- Meth has been fully introduced.
-- LSD has been fully introduced.
-- Heroin has been added and is considered a combat drug (Overdosing System).
-• Crafting System
-- Tear Gas added.
-- Smoke Grenade added.
-- Molotov Cocktail added.
-- Brass Knuckles added.
-- Sawn-Off Shotgun added.
-- Pindad G2 Combat Pistol added.
-- Various Heist items have been added.
-- Various Medical Aid has been added.
-- Old Crafting System has been phased out.
-• Group Stash System
-- Leaders can place their own stash and limit who can access it based on rank.
-- Hackable/Breachable by other groups.
-- Raidable by Police.
-- Once fully introduced, the old stash system will be removed. Stay tuned for a group announcement soon.
-• Added Medical Section
-- Added Medical Section to Boosting Laptop.
-- iFAKS, Painkillers, Oxycodone.
-• Heists
-- Various Bobcat Security Heist tweaks.
-- All new Artifact Heist.
-• Cayo Perico
-- Is now a K.O.S (Kill on Sight) Zone
-- There is no such thing as RDM, VDM, and Pocket Wiping within that zone. (No Reports should be opened.)
-- Rules still apply besides the ones listed above.
-
-EDM // Daily Drivers
-• All new shipments of vehicles have been delivered.
-- The EDM rotation has made its way to the city.
-- Daily Drivers rotation has made its way to the city.
-
+• Update server logo to Summer Logo.
+• Updated to the latest FiveM Artifact version.
+• Reworked the Discord Bot to add various utilities.
+• Fixed a few common crashing issues. More are either related to ReShade or being investigated.
+• Optimized various vehicle textures to reduce common headaches.
+• Optimized various resources to lower CPU/RAM power on the clients end which will result in a performance increase.
+• Optimized database pooling to speed up querying for speeder results with inventory stashes as well as character data.
+ 
+Additions
+• Added wallets for storing identifications and other cards.
+• Added a all new car boosting system. Very in-depth. Group based. XP System, Leaderboards, and more!
+• Added an all new house robbery mechanic. More in-depth and doable via groups.
+• Added a lockpicking animation when lockpicking vehicles.
+• Added `/roll`, a dice rolling mechanic for fun interactions!
+• Added the ability to search a vehicle when you enter it.
+• The Documents Heist now requires Police presence.
+• Added a underground drifting/car show arena.
+• Racing Authorization access has been added to Tebex. With these features, heavy moderation will be in place.
+• Added a garage to Garbage HQ.
+• Added a garage at the Tow lot for employees as well as the general public.
+• Added personal tow trucks for SA-DOT.
+• Created SA-DOT Liveries for their Tow Trucks.
+ 
+Reworks/Bug Fixes
+• The Meth Key now has uses.
+• When using a Meth Key, the Meth Lab will open temporarily for others to get in.
+• Increased Fleeca & Paleto bank payouts.
+• Reworked loot pool in Scuba Diving.
+• Reworked Fishing & increased payouts.
+• Reworked the `/paytow` and `/towcharge` command.
+• Increased various legal job payouts to entice legal activities throughout the city.
+• Reworked money laundering zones and made it easier to interact with the machines.
+• Potentially fixed the issue with poofing randomly to the docks when entering/exiting the recycling center.
+• Reworked the recycling job `"Turn in Package"` zone which will make it easier and more flexible to work within.
+• Removed and reworked duplicated properties via the housing market. A few new locations have been added as well.
+• The seatbelt system has been overhauled and tweaked for optimizations and added realism.
+• Racing harnesses have been reworked and fixed to where there are uses and durability.
+• Potentially fixed the issue with damaged vehicle engine's when taken out of the garage.
+• Fixed Bobcat Security Heist issues and improved functionality.
+• Removed the ability to rob for money.
+ 
+Whitelisted Mechanics
+• All mechanic shop managers+ now have access to a new application within the laptop called "MSS (Mechanic Supply System)".
+  • This system will allow mechanic shop management to purchase materials at an elevated price set by the government when supplies run low.
+• Increased local mechanic repair pricing due to the influx of materials. Please visit your player-owned mechanics.
+• Removed the ability to upgrade your vehicle when on-duty mechanics are in-service. You now must visit a player-owned business.
+ 
+EDM Rotation
+• A new vehicle shipment has made it's way to the Exclusive Motorsport Dealership.
+ 
+Businesses
+• The PizzaThis has been introduced.
+• The Vanilla Unicorn is under new ownership.
+ 
+Probationary Groups
+• The Ace of Spades & Really Rich have been introduced as probationary groups.
+ 
 Emergency Services
-• Full MDT update.
-- Dispatching Map
-- UI Overhaul
-- Synced Reports
-
-Police
-• Spike Strips are now an item.
-• The PD Shotgun has been slightly nerfed.
-• 2013 Harley Davidson Electra Glide has been buffed.
-• AIR-1 Unit has been nerfed (Gas Limitation Added).
-• 2014/2018 Dodge Charger handling lines tweaked.
-
-Fire/EMS
-• Tweaked healing mechanics to further heal an individual.
-• Hospital bills have been changed to $1,500.00.
-
-P.S. CLEAR YOUR CACHE
-
-As per all bigger-end updates, bugs are prone to occur. The best form of testing is by crowdsourcing. Over the next few days, the update will be heavily monitored and tweaked if applicable.
+• EMS/Fire have Defibs around the city.
+• EAGLE-1 has been introduced.
+• K-9 Sub-division has been introduced.
+• K-9 Handler Bag has been implemented.
