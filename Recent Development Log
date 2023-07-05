@@ -1,68 +1,94 @@
-Development Log • May 28th, 2023
-Bug fixes, quality of life updates, new features, and more!
-This update will be split into two parts. This is part one.
-The second part is still under development and will be soon released!
- 
+Development Log • July 2nd, 2023
+Quality of Life Improvements, Optimizations, Bug fixes, Additions, and more!
+
 Server
-• Update server logo to Summer Logo.
 • Updated to the latest FiveM Artifact version.
-• Reworked the Discord Bot to add various utilities.
-• Fixed a few common crashing issues. More are either related to ReShade or being investigated.
-• Optimized various vehicle textures to reduce common headaches.
-• Optimized various resources to lower CPU/RAM power on the clients end which will result in a performance increase.
-• Optimized database pooling to speed up querying for speeder results with inventory stashes as well as character data.
- 
-Additions
-• Added wallets for storing identifications and other cards.
-• Added a all new car boosting system. Very in-depth. Group based. XP System, Leaderboards, and more!
-• Added an all new house robbery mechanic. More in-depth and doable via groups.
-• Added a lockpicking animation when lockpicking vehicles.
-• Added `/roll`, a dice rolling mechanic for fun interactions!
-• Added the ability to search a vehicle when you enter it.
-• The Documents Heist now requires Police presence.
-• Added a underground drifting/car show arena.
-• Racing Authorization access has been added to Tebex. With these features, heavy moderation will be in place.
-• Added a garage to Garbage HQ.
-• Added a garage at the Tow lot for employees as well as the general public.
-• Added personal tow trucks for SA-DOT.
-• Created SA-DOT Liveries for their Tow Trucks.
- 
-Reworks/Bug Fixes
-• The Meth Key now has uses.
-• When using a Meth Key, the Meth Lab will open temporarily for others to get in.
-• Increased Fleeca & Paleto bank payouts.
-• Reworked loot pool in Scuba Diving.
-• Reworked Fishing & increased payouts.
-• Reworked the `/paytow` and `/towcharge` command.
-• Increased various legal job payouts to entice legal activities throughout the city.
-• Reworked money laundering zones and made it easier to interact with the machines.
-• Potentially fixed the issue with poofing randomly to the docks when entering/exiting the recycling center.
-• Reworked the recycling job `"Turn in Package"` zone which will make it easier and more flexible to work within.
-• Removed and reworked duplicated properties via the housing market. A few new locations have been added as well.
-• The seatbelt system has been overhauled and tweaked for optimizations and added realism.
-• Racing harnesses have been reworked and fixed to where there are uses and durability.
-• Potentially fixed the issue with damaged vehicle engine's when taken out of the garage.
-• Fixed Bobcat Security Heist issues and improved functionality.
-• Removed the ability to rob for money.
- 
-Whitelisted Mechanics
-• All mechanic shop managers+ now have access to a new application within the laptop called "MSS (Mechanic Supply System)".
-  • This system will allow mechanic shop management to purchase materials at an elevated price set by the government when supplies run low.
-• Increased local mechanic repair pricing due to the influx of materials. Please visit your player-owned mechanics.
-• Removed the ability to upgrade your vehicle when on-duty mechanics are in-service. You now must visit a player-owned business.
- 
-EDM Rotation
-• A new vehicle shipment has made it's way to the Exclusive Motorsport Dealership.
- 
-Businesses
-• The PizzaThis has been introduced.
-• The Vanilla Unicorn is under new ownership.
- 
-Probationary Groups
-• The Ace of Spades & Really Rich have been introduced as probationary groups.
- 
+• Updated the Discord Bot to match the latest API utilities.
+• Added a more consistent ticket command system via the Discord Bot.
+• Known crashing issues fixed. (A recent crash report from the Tequi-la-la area is being investigated.)
+• Optimized various vehicle textures to further reduce headaches/hiccups in crowded areas.
+• Optimized various resources to lower CPU/RAM power on the client's end which will result in a performance increase.
+• Added a buffer cache to the database which will reduce memory load/usage.
+• Added various logging to help further detect exploitation.
+• Patched various mechanics which led to exploitation.
+• Removed Controller Aim Assist.
+
+City Life
+• All new fueling systems.
+- Easier and more reliable fueling system.
+- Fixed the bug regarding refueling a Jerry Can.
+- Electric Charging stations have been added to all Gas Stations.
+- Electric vehicles no longer have an infinite charge.
+- Re-optimized fuel consumption levels.
+• Complete Weapon Mechanic Overhaul
+- Damage, Recoil, Range, etc.
+• An all-new EDM/Daily Driver Rotation has made its way to the dealership.
+• Added a `"Join Date"` metadata to all players (Players who have no join date (previously joined before this feature) will appear  `"Unknown"`)
+• ID Cards will show `"Date Issued: XX/XX/XXXX"` this will help identify an individual's join date.
+• When you fully bleed out, you will no longer spawn in Paleto, instead you will return to Pillbox.
+• You can now customize cosmetics in any self-served mechanic.
+• Reworked various sounds within the city.
+• Job Center in Legion Square has been added. This will be improved later on w/ various jobs.
+• Removed ATM/Bank Truck/Store Robberies to help levitate misc. calls for PD while facing a heavy call load.
+• Removed the ability to flip your vehicle from the inside.
+• You will no longer load into the city with 50% Hunger/Thirst.
+• Lowered the rate of Hunger/Thirst depletion.
+• You will now have low hunger and thirst after receiving medical aid.
+- This was implemented to prevent players from abusing the hospital mechanic.
+• Added Stancing Kits to the city. (Much more optimized than the previous system).
+- Stancing Kits will sync to all players, unlike the previous system.
+- Stancing Kits will store their changes when putting a vehicle in and pulling it out of its garage. (Unlike the previous system).
+• Fixed a bug that was preventing ejections from working properly.
+- Individuals must be safer when driving now.
+- Also removed due to heavy abuse (min. max. mindset) 
+• Removed the ability to search vehicles. This feature may return later down the road.
+• Completely overhauled the food and thirst system.
+• Various economic adjustments have been made.
+• Reworked Global Security Lock.
+- Heists will now affect different times on the global lock.
+- The Global lock is now displayed via the `HOME` muscle.
+• The Bobcat Security Heist Main Door will now alert if a global security lock is active.
+• House Robbery items can now be sold/distributed.
+• 1998 Mitsubishi Lancer Evo VI T.M.E Updates
+- Can now fit up to 4-occupants.
+- Passenger-side door no longer opens when entering the vehicle.
+• Bicycles have been removed from the C-Class in boosting.
+• PizzaThis has been fully introduced.
+• The White Widow has been fully introduced.
+• The Vanilla Unicorn is now Bahama Mamas.
+• Bean Machine is now Cool Beans.
+• Otto's Auto is now Redline.
+• All business crafting has been reworked.
+• Cat Café has received some fancy new outfits.
+• Various garages have been added around the map.
+SA-DOT (TOW)
+• Yellow Blips appear for Emergency Service Units.
+• Employees will see other employees as Yellow Blips.
+• Tow has received a unique Flatbed/Wenching System.
+• Tow now has a dispatching system. Individuals can now call Tow via `/511 <message`.
+Daily Drivers
+Four new daily drivers have been added.
+
+• 2010 Kia Soul - $68,500
+• 2007 Suzuki Swift ZC31S - $145,000
+• 2008 Chevrolet Suburban - $125,000
+• 2014 Nissan Titan - $135,000
+
 Emergency Services
-• EMS/Fire have Defibs around the city.
-• EAGLE-1 has been introduced.
-• K-9 Sub-division has been introduced.
-• K-9 Handler Bag has been implemented.
+• Added a Radio List (Available to Tow Units as well.)
+- The radio list will list each unit's respective name and callsign in the frequency.
+
+Police
+• K-9 Fully introduced.
+- Searching System (PED/Vehicle - Low Chance Based for Fairness.)
+• Added a PD Commission System (Fines/Charges).
+• Added Mobile Fingerprinting Scanners (MFSS)
+• Added DNA Collection Kit.
+• Added GSR Testing Kit.
+• Added `/pdalert` which will ping all PD to a unit's location.
+
+EMS/Fire
+• Fires will now go out more frequently.
+• EMS/Fire have Tourniquets which can stabilize individuals. Stabilizing will reset their bleed-out timer.
+• EMS/Fire have Defibs which can resurrect players into a "Last Stand" state.
+• St. Fiacre Hospital has been introduced.
