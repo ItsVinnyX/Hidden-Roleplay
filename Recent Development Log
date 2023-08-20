@@ -1,94 +1,95 @@
-Development Log • July 2nd, 2023
-Quality of Life Improvements, Optimizations, Bug fixes, Additions, and more!
+The Criminal Update
+Content Update • August 19th, 2023
 
-Server
-• Updated to the latest FiveM Artifact version.
-• Updated the Discord Bot to match the latest API utilities.
-• Added a more consistent ticket command system via the Discord Bot.
-• Known crashing issues fixed. (A recent crash report from the Tequi-la-la area is being investigated.)
-• Optimized various vehicle textures to further reduce headaches/hiccups in crowded areas.
-• Optimized various resources to lower CPU/RAM power on the client's end which will result in a performance increase.
-• Added a buffer cache to the database which will reduce memory load/usage.
-• Added various logging to help further detect exploitation.
-• Patched various mechanics which led to exploitation.
-• Removed Controller Aim Assist.
+Optimization
+- Server cache clear.
+- Database optimizations.
+- Network blinks have been resolved.
+- Updated server variables and artifact version.
+- Slammed a lot of over-quality textures to improve stability.
+- W.I.P Re-texturing a few over-quality emergency vehicles due to performance impacts.
 
-City Life
-• All new fueling systems.
-- Easier and more reliable fueling system.
-- Fixed the bug regarding refueling a Jerry Can.
-- Electric Charging stations have been added to all Gas Stations.
-- Electric vehicles no longer have an infinite charge.
-- Re-optimized fuel consumption levels.
-• Complete Weapon Mechanic Overhaul
-- Damage, Recoil, Range, etc.
-• An all-new EDM/Daily Driver Rotation has made its way to the dealership.
-• Added a `"Join Date"` metadata to all players (Players who have no join date (previously joined before this feature) will appear  `"Unknown"`)
-• ID Cards will show `"Date Issued: XX/XX/XXXX"` this will help identify an individual's join date.
-• When you fully bleed out, you will no longer spawn in Paleto, instead you will return to Pillbox.
-• You can now customize cosmetics in any self-served mechanic.
-• Reworked various sounds within the city.
-• Job Center in Legion Square has been added. This will be improved later on w/ various jobs.
-• Removed ATM/Bank Truck/Store Robberies to help levitate misc. calls for PD while facing a heavy call load.
-• Removed the ability to flip your vehicle from the inside.
-• You will no longer load into the city with 50% Hunger/Thirst.
-• Lowered the rate of Hunger/Thirst depletion.
-• You will now have low hunger and thirst after receiving medical aid.
-- This was implemented to prevent players from abusing the hospital mechanic.
-• Added Stancing Kits to the city. (Much more optimized than the previous system).
-- Stancing Kits will sync to all players, unlike the previous system.
-- Stancing Kits will store their changes when putting a vehicle in and pulling it out of its garage. (Unlike the previous system).
-• Fixed a bug that was preventing ejections from working properly.
-- Individuals must be safer when driving now.
-- Also removed due to heavy abuse (min. max. mindset) 
-• Removed the ability to search vehicles. This feature may return later down the road.
-• Completely overhauled the food and thirst system.
-• Various economic adjustments have been made.
-• Reworked Global Security Lock.
-- Heists will now affect different times on the global lock.
-- The Global lock is now displayed via the `HOME` muscle.
-• The Bobcat Security Heist Main Door will now alert if a global security lock is active.
-• House Robbery items can now be sold/distributed.
-• 1998 Mitsubishi Lancer Evo VI T.M.E Updates
-- Can now fit up to 4-occupants.
-- Passenger-side door no longer opens when entering the vehicle.
-• Bicycles have been removed from the C-Class in boosting.
-• PizzaThis has been fully introduced.
-• The White Widow has been fully introduced.
-• The Vanilla Unicorn is now Bahama Mamas.
-• Bean Machine is now Cool Beans.
-• Otto's Auto is now Redline.
-• All business crafting has been reworked.
-• Cat Café has received some fancy new outfits.
-• Various garages have been added around the map.
-SA-DOT (TOW)
-• Yellow Blips appear for Emergency Service Units.
-• Employees will see other employees as Yellow Blips.
-• Tow has received a unique Flatbed/Wenching System.
-• Tow now has a dispatching system. Individuals can now call Tow via `/511 <message`.
-Daily Drivers
-Four new daily drivers have been added.
+Heists Additions/Improvements
+- ALL NEW Bank Truck Robbery Heist (Overhauled).
+• Three Levels (Low, Medium, and High Security).
+- ALL NEW Oil Rig Heist (Gang Locked) Gang vs. Gang (For now no PD response.).
+- ALL NEW Gun Running (Supply Drop System).
+- Re-worked "Artifact Heist" all known issues have been fixed.
+• Fixed issues with crates.
+• Fixed issues with ped spawning.
+- Re-worked "Bobcat Security Heist" and the way to obtain a "Bobcat Security Access Card".
+- Re-worked "Documents Heist". You now have the option to sell files again.
+- Re-worked "Global Security Lock" to avoid confusion/error.
 
-• 2010 Kia Soul - $68,500
-• 2007 Suzuki Swift ZC31S - $145,000
-• 2008 Chevrolet Suburban - $125,000
-• 2014 Nissan Titan - $135,000
+Low-tier Crime Additions/Improvements
+- Store Robberies have been added back.
+- Re-worked "Corner Selling" all known issues // bugs have been fixed and overhauled.
 
-Emergency Services
-• Added a Radio List (Available to Tow Units as well.)
-- The radio list will list each unit's respective name and callsign in the frequency.
+Weaponry Additions/Improvements
+- Re-worked weapon ranges, damages, and recoil patterns.
+- Added a new AK-47 w/ Modular Attachment Capabilities.
+- Added a Glock-26 w/ Switch.
+- Added a MINI UZI.
 
-Police
-• K-9 Fully introduced.
-- Searching System (PED/Vehicle - Low Chance Based for Fairness.)
-• Added a PD Commission System (Fines/Charges).
-• Added Mobile Fingerprinting Scanners (MFSS)
-• Added DNA Collection Kit.
-• Added GSR Testing Kit.
-• Added `/pdalert` which will ping all PD to a unit's location.
+Whitelisted Groups
+- ALL NEW Gang Turf System
+• Local (Gang NPC) Robbing Mechanic.
+• Turf Computer System.
+- ALL NEW Custom Graffiti System.
 
-EMS/Fire
-• Fires will now go out more frequently.
-• EMS/Fire have Tourniquets which can stabilize individuals. Stabilizing will reset their bleed-out timer.
-• EMS/Fire have Defibs which can resurrect players into a "Last Stand" state.
-• St. Fiacre Hospital has been introduced.
+HRP Arcade (Coming Soon)
+- (Implemented) PlasmaGame has been introduced.
+- (Implemented) Battle Royale Player vs. Player.
+- W.I.P (Still in Development) Realms is being slowly introduced. Battle Royale is an example of this system.
+
+The City
+- NEUTRAL ZONES have been removed.
+ • Only the Prison, any Police Department as well as hospital will remain NEUTRAL.
+- ALL NEW Custom Crosshair System.
+ • Use  `/crosshair` for various effects and customization. Gold+.
+- Various economy balances.
+- Quick Jobs added to Legion Square.
+- Ticket System Revamps.
+- Added more female clothing items.
+- Added more female hairstyles.
+- Added more male clothing items.
+- Added more male hairstyles.
+- Complete Phone Overhaul
+• Removed Squawk Verification & Reset Contracts.
+- Revamped and rerouted all drug locations.
+• If Law Enforcement find the meth lab, it will be relocated.
+- You can now use your bank balance at self-served mechanics.
+- Added a toggleable Neon Control Keybind (`J` by default).
+- Added a logout system usable via `/logout`. 
+- Fixed various exploitable vehicles.
+- Added New Crafting Recipes
+- Added the ability to craft Weapon Attachments only for New Weaponry.
+
+EDM/Daily Drivers
+- ALL NEW New EDM Rotation.
+
+Employment/Businesses
+- All businesses have been raised from 10% commission to 20% commission.
+- BurgerShot has been updated and now has a drive-thru.
+
+DOJ
+- DOJ has been released.
+- Penal Codes Updated.
+
+Law Enforcement
+- Various MDT revamps.
+• Fingerprint Edits.
+• Optimized data to make searches easier.
+- W.I.P All new 2023 Cadillac CTS-V H.E.A.T. unit.
+- All new S.W.A.T. Uniforms (Mixed w/ Male/Female)
+- All new female and male vests (unisex variants).
+- All new female combat pants.
+- Added Tear Gas.
+- Added Riot Shields.
+- Added Smoke Grenades.
+- Changed up Flashbang Mechanics.
+- Whitelisted all new police uniforms.
+
+Fire/EMS
+- Whitelisted all new fire/ems uniforms.
+- Tweaked random fire instances to reduce performance issues.
