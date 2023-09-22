@@ -1,95 +1,91 @@
-The Criminal Update
-Content Update • August 19th, 2023
+Development Log • September 21st, 2023
+Bug fixes, additions, revamps, and more.
 
-Optimization
-- Server cache clear.
-- Database optimizations.
-- Network blinks have been resolved.
-- Updated server variables and artifact version.
-- Slammed a lot of over-quality textures to improve stability.
-- W.I.P Re-texturing a few over-quality emergency vehicles due to performance impacts.
+PART ONE
 
-Heists Additions/Improvements
-- ALL NEW Bank Truck Robbery Heist (Overhauled).
-• Three Levels (Low, Medium, and High Security).
-- ALL NEW Oil Rig Heist (Gang Locked) Gang vs. Gang (For now no PD response.).
-- ALL NEW Gun Running (Supply Drop System).
-- Re-worked "Artifact Heist" all known issues have been fixed.
-• Fixed issues with crates.
-• Fixed issues with ped spawning.
-- Re-worked "Bobcat Security Heist" and the way to obtain a "Bobcat Security Access Card".
-- Re-worked "Documents Heist". You now have the option to sell files again.
-- Re-worked "Global Security Lock" to avoid confusion/error.
+Server
+• Updated to the latest FiveM Artifacts Build.
+• Updated to the latest FiveM Game Build.
+• All new Legion Square.
+• Various UI changes and improvements.)
+• Various new hacking systems.
+• New loading screen UI.
+• New Character Select/Creation UI.
+• New Vespucci Maze Bank Interior.
+• New Fleeca, Pacific, and Paleto Bank Interiors.
+• New Clothing Modules (Optimizations, Tattoo Opacity, Clothing Codes, and so on.)
 
-Low-tier Crime Additions/Improvements
-- Store Robberies have been added back.
-- Re-worked "Corner Selling" all known issues // bugs have been fixed and overhauled.
+City
+Complete Clothing Overhaul
+• ALL NEW Male Clothing Pack Overhaul.
+• ALL NEW Female Clothing Pack Overhaul.
+• New In-depth Progressive Bank Robbery Mechanics.
+• NEW Maze Bank Heist
+• Re-worked drugs mechanics.
+• EX: Heroin will no longer overdose and will be more rewarding to use.
+• Re-worked Warehouses.
+• Re-worked Gun Running System.
+• Removed the 6th inventory slot lock.
+• Reformed Garbage Multi-job mechanics. You can now do Garbage job w/ others once gain.
+• Increased the hitbox on trash truck to put away trash bigger.
+• Updated the 2021 Dodge Durango Hellcat to the Trackhawk's engine sound.
+• Updated Government Armor Tax from $100K to $70K.
+• Scoreboard Changes
+• Various prior EDM vehicle optimizations and tweaks.
+• Material/Crafting Tweaks.
+• Tweaked the car scrapping mechanic.
+• Tweaked the Oil Rig Heist for optimal counter ability.
+• Added Trojan USBs & thermite to various loot pools.
+• The Cartel has been whitelisted into the Probationary phase.
 
-Weaponry Additions/Improvements
-- Re-worked weapon ranges, damages, and recoil patterns.
-- Added a new AK-47 w/ Modular Attachment Capabilities.
-- Added a Glock-26 w/ Switch.
-- Added a MINI UZI.
+Emergency Services
+• All new mic clicks for radios w/ realistic noise.
+• All new Vespucci Police Department
+• Increased Baton & Flashlight melee damage.
+• Balanced the speed of the 2021 Ford F-150 XLT to fair playing level.
+• Fire/EMS personnel no longer get stressed when flying MEDFLIGHT-1.
+• Removed Randomized Fires to increase server optimization.
+• Added `/paytow` for Fire/EMS to use.
 
-Whitelisted Groups
-- ALL NEW Gang Turf System
-• Local (Gang NPC) Robbing Mechanic.
-• Turf Computer System.
-- ALL NEW Custom Graffiti System.
+EDM
+Platinum
+1987 F40 Ferrari
+2019 Nissan GTR LW
+2019 Aston Martin Volante
+2020 Charger Hellcat
+2024 BMW M8 Competition Cabriolet
 
-HRP Arcade (Coming Soon)
-- (Implemented) PlasmaGame has been introduced.
-- (Implemented) Battle Royale Player vs. Player.
-- W.I.P (Still in Development) Realms is being slowly introduced. Battle Royale is an example of this system.
+Gold
+2006 Mitsubishi Lancer Evolution IX MR
+2016 Maserati Levante Novitec
+2018 Mercedes-Benz S63 AMG GT
+2022 Audi Mansory RSQ8 
+1964 Ford GT40
 
-The City
-- NEUTRAL ZONES have been removed.
- • Only the Prison, any Police Department as well as hospital will remain NEUTRAL.
-- ALL NEW Custom Crosshair System.
- • Use  `/crosshair` for various effects and customization. Gold+.
-- Various economy balances.
-- Quick Jobs added to Legion Square.
-- Ticket System Revamps.
-- Added more female clothing items.
-- Added more female hairstyles.
-- Added more male clothing items.
-- Added more male hairstyles.
-- Complete Phone Overhaul
-• Removed Squawk Verification & Reset Contracts.
-- Revamped and rerouted all drug locations.
-• If Law Enforcement find the meth lab, it will be relocated.
-- You can now use your bank balance at self-served mechanics.
-- Added a toggleable Neon Control Keybind (`J` by default).
-- Added a logout system usable via `/logout`. 
-- Fixed various exploitable vehicles.
-- Added New Crafting Recipes
-- Added the ability to craft Weapon Attachments only for New Weaponry.
+Silver
+1971 Nissan Skyline
+2008 Mazda RX-7
+2015 Nissan Silvia S15
+2018 Mercedes-Benz AMG GT63
+2023 Audi RS7 C8
 
-EDM/Daily Drivers
-- ALL NEW New EDM Rotation.
+Bronze
+1958 Pontiac Bonville
+2023 Toyota Land Cruiser 70 series 
+2005 Cobalt SS
+2019 Ford Raptor
+2019 Indian Chief
 
-Employment/Businesses
-- All businesses have been raised from 10% commission to 20% commission.
-- BurgerShot has been updated and now has a drive-thru.
+Update • September 22nd, 2023
 
-DOJ
-- DOJ has been released.
-- Penal Codes Updated.
-
-Law Enforcement
-- Various MDT revamps.
-• Fingerprint Edits.
-• Optimized data to make searches easier.
-- W.I.P All new 2023 Cadillac CTS-V H.E.A.T. unit.
-- All new S.W.A.T. Uniforms (Mixed w/ Male/Female)
-- All new female and male vests (unisex variants).
-- All new female combat pants.
-- Added Tear Gas.
-- Added Riot Shields.
-- Added Smoke Grenades.
-- Changed up Flashbang Mechanics.
-- Whitelisted all new police uniforms.
-
-Fire/EMS
-- Whitelisted all new fire/ems uniforms.
-- Tweaked random fire instances to reduce performance issues.
+Hotfixes/Changes
+• Fixed issues with a few EDM vehicles.
+• Fixed issues with Fleeca doors not opening properly.
+• Fixed recent issues with vehicle boosting.
+• Added clothing outlets in PDs and Pillbox Medical Center.
+• Boosting now has shared group experience points. Doing grouped boosts will deliver each individual shared XP.
+• EMS/Fire now will receive money for successfully extinguishing fires.
+• Added new EMS/Fire clothing.
+• Fixed Legion Peds (Ticket Center/Quick Jobs).
+• Blacklisted Emergency Service Clothing.
+• Fixed Holsters.
