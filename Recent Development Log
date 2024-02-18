@@ -1,91 +1,57 @@
-Development Log • September 21st, 2023
-Bug fixes, additions, revamps, and more.
-
-PART ONE
+Development Log • February 2nd, 2024
+New Additions, Balances, Bug Fixes, Optimizations, and More!
 
 Server
-• Updated to the latest FiveM Artifacts Build.
-• Updated to the latest FiveM Game Build.
-• All new Legion Square.
-• Various UI changes and improvements.)
-• Various new hacking systems.
-• New loading screen UI.
-• New Character Select/Creation UI.
-• New Vespucci Maze Bank Interior.
-• New Fleeca, Pacific, and Paleto Bank Interiors.
-• New Clothing Modules (Optimizations, Tattoo Opacity, Clothing Codes, and so on.)
+• Updated to the latest FiveM artifacts.
+• Tweaked loading times for data pulling.
+- Improves load speeds & how fast data is received.
 
 City
-Complete Clothing Overhaul
-• ALL NEW Male Clothing Pack Overhaul.
-• ALL NEW Female Clothing Pack Overhaul.
-• New In-depth Progressive Bank Robbery Mechanics.
-• NEW Maze Bank Heist
-• Re-worked drugs mechanics.
-• EX: Heroin will no longer overdose and will be more rewarding to use.
-• Re-worked Warehouses.
-• Re-worked Gun Running System.
-• Removed the 6th inventory slot lock.
-• Reformed Garbage Multi-job mechanics. You can now do Garbage job w/ others once gain.
-• Increased the hitbox on trash truck to put away trash bigger.
-• Updated the 2021 Dodge Durango Hellcat to the Trackhawk's engine sound.
-• Updated Government Armor Tax from $100K to $70K.
-• Scoreboard Changes
-• Various prior EDM vehicle optimizations and tweaks.
-• Material/Crafting Tweaks.
-• Tweaked the car scrapping mechanic.
-• Tweaked the Oil Rig Heist for optimal counter ability.
-• Added Trojan USBs & thermite to various loot pools.
-• The Cartel has been whitelisted into the Probationary phase.
+• Added Relics
+- Relics are collectable items which can be utilized for player-to-player trading or traded-in for exclusive rewards.
+- Relics will be classed as the following: Common, Uncommon, Rare, Epic, Mythical, and Legendary.
+- The more rare your collected relic is, the better loot/value can be obtained from it.
+• Added The Relic Book
+- This book will be used to store collected Relics. Picture it as a scrapbook for your valuable virtual goods.
+• Updated V-Points
+- Now supports multiple V-Point/Package purchases.
+- Added the Bronze, Silver, Gold, and Platinum Package V-Points redeem option.
+- Fixed 250 V-Points from not being able to be redeemed.
+• Re-worked Wallets
+- Can no longer be stolen by players. <-- This was always intended but was brought to my intention it was able to be done.
+- Only a maximum of $10,000 can be kept within your wallet, if your amount exceeds this value you will be forced to visit a bank.
+• Balances
+- Economy adjustments have been made. Increases/decreases.
+- Re-worked/balanced various vehicle handling lines.
+• Casino
+- Added a new Casino vehicle.
+• Miscellaneous Fixes
+- Fixed issues where the Train Cargo Heist could duplicate trains due to multiple starts.
+- Fixed issues where vehicles came out w/o fuel and players were forced to "Hotwire" their own vehicle.
+- Fixed the 2021 Coil Raiden Z from not being able to be re-charged at the Electric Recharger.
+- Fixed issues with vehicle doors unable to be unlocked with boosting.
+- Fixed shoes from not properly being stolen on male peds.
+
+Player Owned Businesses
+SA DOT (Tow)
+• Added vehicle items for on-the-go operations.
+• Added a Orange & Yellow SA DOT High Res. Vest Texture.
+• Added dispatching system similar to Police/EMS.
+• Added Pay Receipts.
+• Added Trainee job grade.
+• Balanced and re-worked the paying system.
+• Added /depot 0 for Tow use.
+• Added /extras & F5 extras menu for Tow use.
+• Added /paytow <id> usable by Police/EMS.
+• Added /411 <message> usable by everyone. This command "call" Tow and notify them that you need their assistance.
 
 Emergency Services
-• All new mic clicks for radios w/ realistic noise.
-• All new Vespucci Police Department
-• Increased Baton & Flashlight melee damage.
-• Balanced the speed of the 2021 Ford F-150 XLT to fair playing level.
-• Fire/EMS personnel no longer get stressed when flying MEDFLIGHT-1.
-• Removed Randomized Fires to increase server optimization.
-• Added `/paytow` for Fire/EMS to use.
+• Fixed vehicle trunk items from not properly adding.
+• Added custom vehicle engine sounds to various patrol vehicles.
 
-EDM
-Platinum
-1987 F40 Ferrari
-2019 Nissan GTR LW
-2019 Aston Martin Volante
-2020 Charger Hellcat
-2024 BMW M8 Competition Cabriolet
+Police
+• Re-worked ALL patrol vehicle handling lines.
+• Re-worked V.I.P.E.R. handling lines.
 
-Gold
-2006 Mitsubishi Lancer Evolution IX MR
-2016 Maserati Levante Novitec
-2018 Mercedes-Benz S63 AMG GT
-2022 Audi Mansory RSQ8 
-1964 Ford GT40
-
-Silver
-1971 Nissan Skyline
-2008 Mazda RX-7
-2015 Nissan Silvia S15
-2018 Mercedes-Benz AMG GT63
-2023 Audi RS7 C8
-
-Bronze
-1958 Pontiac Bonville
-2023 Toyota Land Cruiser 70 series 
-2005 Cobalt SS
-2019 Ford Raptor
-2019 Indian Chief
-
-Update • September 22nd, 2023
-
-Hotfixes/Changes
-• Fixed issues with a few EDM vehicles.
-• Fixed issues with Fleeca doors not opening properly.
-• Fixed recent issues with vehicle boosting.
-• Added clothing outlets in PDs and Pillbox Medical Center.
-• Boosting now has shared group experience points. Doing grouped boosts will deliver each individual shared XP.
-• EMS/Fire now will receive money for successfully extinguishing fires.
-• Added new EMS/Fire clothing.
-• Fixed Legion Peds (Ticket Center/Quick Jobs).
-• Blacklisted Emergency Service Clothing.
-• Fixed Holsters.
+EMS
+• Re-worked EMS 2018 Vapid Caracara handling line.
