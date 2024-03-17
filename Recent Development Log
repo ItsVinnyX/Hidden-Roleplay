@@ -1,57 +1,63 @@
-Development Log • February 2nd, 2024
-New Additions, Balances, Bug Fixes, Optimizations, and More!
+The next update…
+My plan for the update will primarily be focused on additions, which will spark up and refresh your daily routine. I will also be focusing on weaponry to add a bit more of a flavor to daily activities, this will come soon! (;
+﻿
+I deeply encourage those to utilize the #┃suggest-here channel. Suggestions help me understand what the community wants. Depending on the logical direction and the feedback, your suggestion could be added!
 
+WEAR GREEN & GET DRUNK!
+
+:shamrock: Development Log • March 17th, 2024 :shamrock:
+Quality of Life Changes, Bug Fixes, Additions, and More!
+﻿
 Server
-• Updated to the latest FiveM artifacts.
-• Tweaked loading times for data pulling.
-- Improves load speeds & how fast data is received.
-
+• Texture optimizations.
+• Updated to the latest FiveM Server Artifacts.
+﻿
 City
-• Added Relics
-- Relics are collectable items which can be utilized for player-to-player trading or traded-in for exclusive rewards.
-- Relics will be classed as the following: Common, Uncommon, Rare, Epic, Mythical, and Legendary.
-- The more rare your collected relic is, the better loot/value can be obtained from it.
-• Added The Relic Book
-- This book will be used to store collected Relics. Picture it as a scrapbook for your valuable virtual goods.
-• Updated V-Points
-- Now supports multiple V-Point/Package purchases.
-- Added the Bronze, Silver, Gold, and Platinum Package V-Points redeem option.
-- Fixed 250 V-Points from not being able to be redeemed.
-• Re-worked Wallets
-- Can no longer be stolen by players. <-- This was always intended but was brought to my intention it was able to be done.
-- Only a maximum of $10,000 can be kept within your wallet, if your amount exceeds this value you will be forced to visit a bank.
-• Balances
-- Economy adjustments have been made. Increases/decreases.
-- Re-worked/balanced various vehicle handling lines.
-• Casino
-- Added a new Casino vehicle.
-• Miscellaneous Fixes
-- Fixed issues where the Train Cargo Heist could duplicate trains due to multiple starts.
-- Fixed issues where vehicles came out w/o fuel and players were forced to "Hotwire" their own vehicle.
-- Fixed the 2021 Coil Raiden Z from not being able to be re-charged at the Electric Recharger.
-- Fixed issues with vehicle doors unable to be unlocked with boosting.
-- Fixed shoes from not properly being stolen on male peds.
+• Benny's Auto Shop has returned.
+- This will be heavily monitored for any sort of bugs.
+• Train Cargo Heist has been reworked and is now functional.
+- There are a few syncing issues which will be eventually be fixed but the player who starts the heist will be able to complete it just fine.
+• Dramatically lowered the chance of weapon jamming.
+- Your weapon must be pretty damaged for jamming to trigger.
+• Prison Breaks have been altered and will be more punishing.
+- These were being abused and done illegitimately.
+• Upon creating a new character, ID cards will properly fill data accordingly.
+- If you have a non-working ID, please get a new one at City Services.
+• Licenses will now show further distances, making it easier to show licensing from vehicles.
+• Re-did several pictures that used the Discord API for hosting.
+• The walk style Very Slow has been removed. This was being exploited.
+• Convenience stores food/beverage levels have been adjusted.
+• BurgerShot food will now reduce stress like other food in the city.
+• Various economy tweaks have been made.
+• Various vehicles have been tweaked in terms of handling.
+• Re-worked Advanced Repair Kits/Repair Kits.
+- These were repairing the entire vehicle for short time while Benny's was closed.
+- Advanced Repair Kits will only partially fix your engine/body. It will also fix 3 tires.
+- Repair Kits will only repair a small amount of the vehicles engine/body.
+- The prices have increased in the hardware shops to prioritize more player-to-player interaction (Benny's/Tow).
+• Fixed an issue where Wheel Stancing was not properly saving when stored.
+• Fixed issue where players could use their phone and radio while handcuffed.
+• Watercraft will no longer randomly combust and destroy within seconds of operating.
+• Lowered the group requirements for The Documents Heist.
+• The Coke Plane's fuel level has been adjusted.
+• Added a Smelting Blip on the map.
 
-Player Owned Businesses
-SA DOT (Tow)
-• Added vehicle items for on-the-go operations.
-• Added a Orange & Yellow SA DOT High Res. Vest Texture.
-• Added dispatching system similar to Police/EMS.
-• Added Pay Receipts.
-• Added Trainee job grade.
-• Balanced and re-worked the paying system.
-• Added /depot 0 for Tow use.
-• Added /extras & F5 extras menu for Tow use.
-• Added /paytow <id> usable by Police/EMS.
-• Added /411 <message> usable by everyone. This command "call" Tow and notify them that you need their assistance.
-
+EDM (Exclusive Motorsport Dealership)
+• The EDM contract has been purchased by a new dealership. All inquires have now moved to Vespucci Beach.
+• An all new EDM shipment arrived early morning at the port and made it's way to the new Vespucci Beach Dealership (Postal: 610).
+﻿
+Housing
+• Added the ability to spawn at your owned house.
+- FUTURE UPDATE If you obtain two houses, you will be able to setup a default spawn house by doing /setDefaultHouse <houseId.
+- FUTURE UPDATE Key holders will be able to also set their default spawn house.
+• The Black Screen of Death bug has been fixed.
+• The Lockpick option has been removed from housing doors.
+• More houses have been added around the map, keep checking the map daily (as this is manual labor, which won't be announced all the time).
+• House Garages have been implemented.
+﻿
 Emergency Services
-• Fixed vehicle trunk items from not properly adding.
-• Added custom vehicle engine sounds to various patrol vehicles.
-
-Police
-• Re-worked ALL patrol vehicle handling lines.
-• Re-worked V.I.P.E.R. handling lines.
-
-EMS
-• Re-worked EMS 2018 Vapid Caracara handling line.
+• Added Maze Bank Robbery dispatch alert.
+• Added SAST - 2018 Buffalo STX.
+• Added Federal Signal P400 Sirens to SAST vehicles.
+• Law Enforcement can now search player's wallets.
+• Whitelisted the SAST (San Andreas State Troopers) uniforms for both male/female.
