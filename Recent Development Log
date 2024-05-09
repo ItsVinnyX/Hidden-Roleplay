@@ -1,63 +1,42 @@
-The next update…
-My plan for the update will primarily be focused on additions, which will spark up and refresh your daily routine. I will also be focusing on weaponry to add a bit more of a flavor to daily activities, this will come soon! (;
-﻿
-I deeply encourage those to utilize the #┃suggest-here channel. Suggestions help me understand what the community wants. Depending on the logical direction and the feedback, your suggestion could be added!
+Development Log • May 9th, 2024
+Bug fixes, additions, balances, and more!
 
-WEAR GREEN & GET DRUNK!
-
-Development Log • March 17th, 2024
-Quality of Life Changes, Bug Fixes, Additions, and More!
-﻿
 Server
-• Texture optimizations.
-• Updated to the latest FiveM Server Artifacts.
-﻿
-City
-• Benny's Auto Shop has returned.
-- This will be heavily monitored for any sort of bugs.
-• Train Cargo Heist has been reworked and is now functional.
-- There are a few syncing issues which will be eventually be fixed but the player who starts the heist will be able to complete it just fine.
-• Dramatically lowered the chance of weapon jamming.
-- Your weapon must be pretty damaged for jamming to trigger.
-• Prison Breaks have been altered and will be more punishing.
-- These were being abused and done illegitimately.
-• Upon creating a new character, ID cards will properly fill data accordingly.
-- If you have a non-working ID, please get a new one at City Services.
-• Licenses will now show further distances, making it easier to show licensing from vehicles.
-• Re-did several pictures that used the Discord API for hosting.
-• The walk style Very Slow has been removed. This was being exploited.
-• Convenience stores food/beverage levels have been adjusted.
-• BurgerShot food will now reduce stress like other food in the city.
-• Various economy tweaks have been made.
-• Various vehicles have been tweaked in terms of handling.
-• Re-worked Advanced Repair Kits/Repair Kits.
-- These were repairing the entire vehicle for short time while Benny's was closed.
-- Advanced Repair Kits will only partially fix your engine/body. It will also fix 3 tires.
-- Repair Kits will only repair a small amount of the vehicles engine/body.
-- The prices have increased in the hardware shops to prioritize more player-to-player interaction (Benny's/Tow).
-• Fixed an issue where Wheel Stancing was not properly saving when stored.
-• Fixed issue where players could use their phone and radio while handcuffed.
-• Watercraft will no longer randomly combust and destroy within seconds of operating.
-• Lowered the group requirements for The Documents Heist.
-• The Coke Plane's fuel level has been adjusted.
-• Added a Smelting Blip on the map.
+• Database optimizations.
+• Vehicle texture optimizations.
+• Character creation issues have been resolved.
+  - Needs further testing... Possibly fixed the camera bug. Which would result in a frozen camera at Legion until toggling the head camera button.
+  - Needs further testing... Possibly fixed the infinite walking into a wall upon creating a character.
+  - Black screen upon creating a character has been fixed.
+  - Spawning invisible has been fixed.
+• Anti-cheat updates.
 
-EDM (Exclusive Motorsport Dealership)
-• The EDM contract has been purchased by a new dealership. All inquires have now moved to Vespucci Beach.
-• An all new EDM shipment arrived early morning at the port and made it's way to the new Vespucci Beach Dealership (Postal: 610).
-﻿
-Housing
-• Added the ability to spawn at your owned house.
-- FUTURE UPDATE If you obtain two houses, you will be able to setup a default spawn house by doing /setDefaultHouse <houseId.
-- FUTURE UPDATE Key holders will be able to also set their default spawn house.
-• The Black Screen of Death bug has been fixed.
-• The Lockpick option has been removed from housing doors.
-• More houses have been added around the map, keep checking the map daily (as this is manual labor, which won't be announced all the time).
-• House Garages have been implemented.
-﻿
+City
+• Official Penal Code Added
+  - P.C. 9025 (Move Over Law) - Failure to move over/change lanes to give safe clearance to emergency service personnel, utility workers, and in some cases, tow-truck drivers and disabled vehicles.
+
+• Rodney bug fixes (Airdrops).
+• Added /eng as well as  /engine (Using this will toggle your engine off and on).
+• Crime payout increases & balances.
+• Legal job balances & payout increases.
+• Vehicle balancing in performance.
+• Housing performance increases/bug fixes.
+• Added Pet Store Interior
+  - Purchasable companions now exists.
+  - Added The Poacher for Exotic Pets.
+This will need further testing (some aspects are fully functional). Purchase at your own risk for right now.
+
+ALL NEW EDM ROTATION
+A new rotation has hit the Vespucci Beach Dealership!
+
 Emergency Services
-• Added Maze Bank Robbery dispatch alert.
-• Added SAST - 2018 Buffalo STX.
-• Added Federal Signal P400 Sirens to SAST vehicles.
-• Law Enforcement can now search player's wallets.
-• Whitelisted the SAST (San Andreas State Troopers) uniforms for both male/female.
+• Rank locked the D&P Pistol for Corporal+.
+• Rank locked the Heavy Rifle for Corporal+.
+• Simplified the PD vehicle fleet.
+• Added metadata for certifications.
+• Balanced a few LEO vehicles.
+• Sub-divisions implemented.
+• Fixed /calcticket.
+
+Please utilize the #┃suggest-here channel!
+This is a community effort and your feedback is truly important to improve our daily experiences.
