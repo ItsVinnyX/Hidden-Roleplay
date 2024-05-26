@@ -1,42 +1,83 @@
-Development Log • May 9th, 2024
+Development Log • May 26th, 2024
 Bug fixes, additions, balances, and more!
 
 Server
+• Updated to Chop Shop DLC game build.
 • Database optimizations.
+• Hidden Discord Bot additions.
 • Vehicle texture optimizations.
-• Character creation issues have been resolved.
-  - Needs further testing... Possibly fixed the camera bug. Which would result in a frozen camera at Legion until toggling the head camera button.
-  - Needs further testing... Possibly fixed the infinite walking into a wall upon creating a character.
-  - Black screen upon creating a character has been fixed.
-  - Spawning invisible has been fixed.
+• Loading screen changes.
 • Anti-cheat updates.
 
 City
-• Official Penal Code Added
-  - P.C. 9025 (Move Over Law) - Failure to move over/change lanes to give safe clearance to emergency service personnel, utility workers, and in some cases, tow-truck drivers and disabled vehicles.
-
-• Rodney bug fixes (Airdrops).
-• Added /eng as well as  /engine (Using this will toggle your engine off and on).
-• Crime payout increases & balances.
-• Legal job balances & payout increases.
-• Vehicle balancing in performance.
-• Housing performance increases/bug fixes.
-• Added Pet Store Interior
-  - Purchasable companions now exists.
-  - Added The Poacher for Exotic Pets.
-This will need further testing (some aspects are fully functional). Purchase at your own risk for right now.
-
-ALL NEW EDM ROTATION
-A new rotation has hit the Vespucci Beach Dealership!
+• Increased pocket weight.
+• An ALL NEW HUD has been implemented.
+• The "Security Job" has been reworked.
+• Robbable NPC Bank Trucks have been added.
+• The "Mining Job" has been reworked.
+- Added an Advanced Pickaxe.
+- Changed up store UI.
+- The skill check has been removed.
+• ALL PAYOUTS criminally and legally have been boosted.
+• ALL BANK HEISTS security hacks have been lowered, yes they're easier now.
+• CRYPTO IS BACK!
+- Crypto Sticks have been implemented.
+- The Crypto Drive has been implemented.
+- vCoins can now be sold for money.
+- Custom Market System UI implemented.
+- Can be obtained and looted for vCoins which is integrated with boosting.
+- Can be used within the Online Black Market.
+PDM ADDITIONS
+• Added NEW Chop Shop DLC cars.
+- FR36 (Based on the 3rd Gen. Infiniti G35 (V35) Coupé)
+- Impaler LX (Based on the 1980–1985 Chevrolet Impala)
+- Baller ST-D (Based on the  5th Gen. Land Rover Range Rover L460)
+- Dorado (Based on the 1st Gen. Dodge Durango)
+• Added 4-Door Karin Sultan to PDM.
+• Added Classic Karin Sultan to PDM.
+• Added Obey 8F Drafter to PDM.
+• Added Obey 9F to PDM.
+• EMOTE REALISM
+- The ability to adjust your emote positions for more realism has been added.
+- Execute a animation then think /adjust.
+• Added a Mask Item.
+- Item syncs even after server restarts.
+- Removes the mask if the mask item was removed from the player's inventory.
+- Most masks will no longer clip through individuals that have bigger faces and or jaws/chins. Some addon masks will still clip.
+• Implemented x3 Weapon Repair Kits.
+- Weapon Kit Mk.I
+- Weapon Kit Mk.II
+- Weapon Kit Mk.III
+Each weapon repair kit will correspond with a weapon class
+• NOVELTY STORE ADDED
+- Shoulder Plush-toy Buddies have been added.
+- Added D.Va's Pistol from Overwatch.
+- Added x4 Color Oriented Katana Samurai sword's.
+- Added a Pink Dildo.
+• BUSINESSES
+- Balanced Incentive Programs.
+- The White Widow Joint has been lowered in terms of crafting to make it more fair and balanced.
+• CLOTHING
+- Added some new attire for female & male peds.
+• Added Weapon Holsters for normal civilians to use.
+• Added a Pool Cue to Ammunition.
+• Added Are You Sure? confirmation dialog before purchasing an Outfit Bag.
+• Various changes to the quality of life.
+• Various vehicle balances & tweaks have been made.
+• AI have been tweaked to respond to lights/sirens further.
+- They will pull over left/right in efforts to clear the way from Emergency Lights/Sirens.
 
 Emergency Services
-• Rank locked the D&P Pistol for Corporal+.
-• Rank locked the Heavy Rifle for Corporal+.
-• Simplified the PD vehicle fleet.
-• Added metadata for certifications.
-• Balanced a few LEO vehicles.
-• Sub-divisions implemented.
-• Fixed /calcticket.
+• New Siren Tones.
+• New Police M4 has been added.
+• New Police Fennec has been added.
+• MDT Updates/Additions.
+- Supports more image hosting sites.
+- Civilians housing information can now be viewed within the MDT.
 
-Please utilize the #┃suggest-here channel!
-This is a community effort and your feedback is truly important to improve our daily experiences.
+PLANNED AND VERY SOON TO COME
+• Reward System
+• A Black Market Trader implemented.
+- Sell Illegal Goods (Heist Equipment, Guns, Ammo, etc.)
+• Interactable NPCs w/ dialog features.
+- NPCs will have reputation as well which can be awarded by doing tasks.
