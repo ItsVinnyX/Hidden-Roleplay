@@ -1,64 +1,58 @@
-Content Update • September 25th,  2024
+Content Update • October 21st,  2024
 Improvements, Additions, and Bug Fixes.
 
-• Server
-- Completely reworked several scripts to improve overall client/server-side performance.
-- Improved AI-to-Player relationships. AI will react to various events differently than normal.
+NOTE
+- I’m releasing this update a bit earlier than planned because I wanted to give you all a head start to explore the new content throughout the week. There’s still a lot more to come, with plenty of exciting features in the works! Releasing now will allow me to gather your feedback and make improvements before the weekend hits. I’m also excited to hear your suggestions and ideas as you dive into the update!
+- Roxwood County is only going to get bigger! Soon there will be chunks 6-8 added which showcases a farmland, airport, and another small town. Below I have attached an image that highlights this in red. I will also attach the roadmap for the DLC which displays all the chunks.
+- Map Issues Due to this being a 3rd-Party map addition, AI is wonky! Their navigation skills are not up to par. You will notice them running into buildings etc. (This is actively being worked on).
+Server
+- Updated the server to the latest FiveM artifacts to prevent several crashing/client unresponsive issues.
 - Optimized database transactions, resulting in faster data fetching and updates.
 - Enhanced NUI performance for core UIs, providing a smoother user experience.
-- Updated server-side event handling to reduce latency.
-- Fixed various texture issues across the map.
-- Various UI changes/additions (notifications, prompts, etc).
-- Added Parked AI Vehicles to spark up a more city life style.
 - Several bug fixes and optimizations have been made.
-- Tweaked Garage Spawning.
 - Inventory updates and additions.
-
-• City
-- NEW Racing System Implemented.
-- Custom Phone App for race joining/leave as well as automated phone notifications.
-- Racing Tablet Introduced for real-time race tracking and updates.
-- Leaderboards with ELO System to encourage competitive racing.
-- Crew Creation System. Race with a crew and score big on the leaderboards as a team.
-- Buy-in system allowing players to wager on races.
-- NEW Vehicle Key System
-- Revamped search/new hotwiring system.
-- Physical Vehicle Keys & Keyrings have been introduced. (Obtain a Keyring at Hardware Stores)
-- Vehicle locks now use a statebag, ensuring synchronization and preventing desynchronization issues from happening.
-- Dynamic Audio System that plays lock/unlock sounds around the car, responding to the environment (surround sound, reverb, etc).
-- NEW Container Heist has been implemented.
-- Multiple containers filled with valuable loot to discover.
-- Players must defend the payloads from AI and other players, or risk losing all the loot!
-- NEW Housing Updates/Bug Fixes
-- Overhauled furniture system for better placement.
-- Separated client & server furniture list loading to optimize performance.
-- Fixed furniture placement system for ease of use.
-- Addressed issues with furniture not updating correctly when placed.
-- The HasKey nil error has been resolved.
-- Object creation issues have been fixed which will provide smoother interaction with placed items.
-- The house entry heading has been tweaked.
-- Inventory slot/weight issues have been resolved.
-- Tweaked the furniture list and global state limit, which will help with performance.
-- CCTV loading issues have been fixed and now have improved functionality.
-- Addressed various garage issues to help push smoother vehicle storage and retrieval.
-- NEW Added Headbags, which can be used to cover individuals heads for hostage situations.
-- The issues with diving suits being bulletproof have been fixed.
-- When shot, the diving suit will now explode.
-- Test Driving PDM vehicles will now poof you back to the vehicle showroom.
-- Certain props which emit light will now function properly during a "Blackout" state.
-- Fixed issues regarding the Police count within Cocaine Runs.
-- Reworked several vehicle handling lines.
-- Adjusted crafting recipes.
-- Several items within the inventory are now stackable.
-
+- Inventory item renames & better descriptions.
+- San Andreas has been spookified.
+- Added a Female Upper body & Face Overhaul
+- Better looking skin, face qualities, etc. 
+City
+- Roxwood DLC Expansion is now live!
+- Immerse yourself in a charming, small-town setting with a cozy county atmosphere.
+- Businesses?? You will notice fresh opportunities around the county... maybe some will come? :eyes:
+- Exclusive Vehicles: Uncover a variety of unique rides tailored to the Roxwood lifestyle.
+- Exciting Exclusive Participate in all-new, exclusive experiences only available in Roxwood.
+- Water Activities Beat the heat with exhilarating water park attractions & activities.
+- And that's just the beginning! More surprises await! :saluting_face:
+- Pine Bank (Roxwood County) robbery has been implemented.
+- 3D Printing has been added.
+- USB Blueprint System.
+- Ah yes... illegal weapons/weapon attachments are printable!
+- A Surfing Rental System has been added!
+- Added workable Vending Machines. Just third-eye them!
+- Added various new heist items.
+- Added new crafting recipes.
+- Added new pawnshop items.
+- Added more house robbery locations.
+- Fixed issues with the Tow Job.
+- Fixed issues with emails not working at benny's.
+- Fixed issues with Advanced Lockpicks & Lockpicks.
+- Fixed issues with Store Robberies not working.
+- Fixed issues within Housing going back on the market when it shouldn't.
+- Created a Prison Locker locking system to prevent full item loss due to slower machines.
 Emergency Services
-• Police
-- Fixed issues with the Automated Warrant System, ensuring warrants are only created for valid offenders.
-- Added Gas Launchers for S.W.A.T.
-- Added Night Vision Goggles & Gas Masks (Civilian Versions soonTM).
-- Introduced O.C. Spray & O.C. Decontamination Spray w/ refilling stations.
-- Updated multiple police vehicle handling lines to help balance pursuits.
-
-• EMS/Fire
-- Reworked Fire Types & Explosion Variables to create more dynamic and unpredictable fire scenarios.
-- Improved fire spread mechanics to produce more dynamic fires.
+- New PD Sirens
+- New EMS Sirens
+Police
+- Roxwood PD added.
+- Roxwood County Sheriff fleet added.
+- Authorized Pepper Spray, O.C. Antidote, Radar Gun, and Powerbanks to Vest Storage
+- Fixed issues with PD Certifications
+- Added P.C. 9027 Obstruction of Emergency Access to MDT Penal Codes & Traffic Citations.
+- Any act that hinders or prevents emergency services, such as fire, police, or medical personnel, from accessing critical areas, equipment, or resources needed during an emergency. This includes blocking routes, access points, or equipment such as fire hydrants, fire lanes, or emergency exits. 
+EMS/Fire
+- Added Wild & Brush Fires.
+- Fixed various issues within the fire system.
+- Fixed issues regarding the firehose.
+- Roxwood Fire Department has been added.
+- Roxwood Medical Center has been added.
+- Roxwood EMS/Fire Vehicle Fleet added.
